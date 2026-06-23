@@ -1,0 +1,391 @@
+Page Title: Breads bakery NYC Website Design Live Demo
+URL: https://nicepage.com/website-design/preview/breads-bakery-nyc-3264603?device=desktop
+Recent events:
+- [2026-06-11T09:29:00.559Z] (requestFailed) POST request to https://www.google.com/ccm/collect?rcb=7&frm=0&ae=g&auid=2111610753.1781170140&dt=Breads%20bakery%20NYC%20Website%20Design%20Live%20Demo&en=page_view&dl=https%3A%2F%2Fnicepage.com%2Fwebsite-design%2Fpreview%2Fbreads-bakery-nyc-3264603&scrsrc=www.googletagmanager.com&rnd=86360463.1781170140&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6691v79813278za200zd79813278xea&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938465~115938468~119456239~119456247&apve=1&apvf=f&apvc=1&tft=1781170140414&tfd=2565 failed: "net::ERR_ABORTED"
+- [2026-06-11T09:29:00.734Z] (console) [error] Provider's accounts list is empty.
+- [2026-06-11T09:29:00.790Z] (requestFailed) POST request to https://www.google.com/ccm/collect?rcb=16&frm=0&auid=2111610753.1781170140&dt=Breads%20bakery%20NYC%20Website%20Design%20Live%20Demo&en=page_view&dl=https%3A%2F%2Fnicepage.com%2Fwebsite-design%2Fpreview%2Fbreads-bakery-nyc-3264603&scrsrc=www.googletagmanager.com&rnd=86360463.1781170140&navt=n&npa=0&_tu=BA&gtm=45be6691v9101312129z879813278za20gzb79813278zd79813278xec&gcs=G111&gcd=13t3t3Z3t5l1&dma=0&tag_exp=115938465~115938469~117776793~119456239~119456247&apve=1&apvf=f&apvc=0&tids=AW-797221335&tid=AW-797221335&tft=1781170140726&tfd=2876 failed: "net::ERR_ABORTED"
+- [2026-06-11T09:29:00.792Z] (requestFailed) POST request to https://www.google.com/rmkt/collect/797221335/?random=1781170140683&cv=11&fst=1781170140683&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6691v9101312129z879813278za20gzb79813278zd79813278xec&gcd=13t3t3Z3t5l1&dma=0&tag_exp=115938465~115938469~117776793~119456239~119456247&u_w=1536&u_h=864&url=https%3A%2F%2Fnicepage.com%2Fwebsite-design%2Fpreview%2Fbreads-bakery-nyc-3264603%3Fdevice%3Ddesktop&rcb=16&frm=0&tiba=Breads%20bakery%20NYC%20Website%20Design%20Live%20Demo&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=2111610753.1781170140&uaa=x86&uab=64&uafvl=Not%252FA)Brand%3B99.0.0.0%7CChromium%3B148.0.7778.97&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&_tu=BA&data=event%3Dgtag.config&ept=68&gcp=5 failed: "net::ERR_ABORTED"
+- [2026-06-11T09:29:00.826Z] (requestFailed) POST request to https://ad.doubleclick.net/ccm/s/collect?auid=2111610753.1781170140&gtm=45be6691v9101312129z879813278za20gzb79813278zd79813278xec failed: "net::ERR_ABORTED"
+- [2026-06-11T09:29:07.384Z] (console) [error] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token.
+Snapshot: 
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "Responsive Tablet Mode" [ref=e4] [cursor=pointer]:
+        - /url: "#"
+        - img "Responsive Tablet Mode" [ref=e5]
+      - link "Responsive Phone Horizontal Mode" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img "Responsive Phone Horizontal Mode" [ref=e7]
+      - link "Responsive Phone Mode" [ref=e8] [cursor=pointer]:
+        - /url: "#"
+        - img "Responsive Phone Mode" [ref=e9]
+      - link "Close" [ref=e10] [cursor=pointer]:
+        - /url: /sd/3264603/breads-bakery-nyc-website-design
+        - img "Close" [ref=e11]
+    - iframe [ref=e13]:
+      - generic [active] [ref=f1e1]:
+        - banner [ref=f1e2]:
+          - generic:
+            - link [ref=f1e3] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=f1e4]
+            - navigation [ref=f1e5]:
+              - list [ref=f1e7]:
+                - listitem [ref=f1e8]:
+                  - link "Bakery" [ref=f1e9] [cursor=pointer]:
+                    - /url: /
+                - listitem [ref=f1e10]:
+                  - generic [ref=f1e11]: Pages ⌄
+                - listitem [ref=f1e12]:
+                  - link "Our Bread" [ref=f1e13] [cursor=pointer]:
+                    - /url: /Our-Bread.html
+                - listitem [ref=f1e14]:
+                  - link "Contact" [ref=f1e15] [cursor=pointer]:
+                    - /url: /Contact.html
+              - text: ⌄
+            - button [ref=f1e17] [cursor=pointer]:
+              - generic [ref=f1e18]:
+                - img [ref=f1e19]
+                - img
+            - link "0" [ref=f1e22] [cursor=pointer]:
+              - /url: "#sec-07c9"
+              - generic [ref=f1e24]: "0"
+        - generic [ref=f1e30]:
+          - heading "fresh bread & baked goods" [level=6] [ref=f1e31]: fresh bread & baked goods
+          - heading "Baked fresh daily" [level=2] [ref=f1e32]: Baked fresh daily
+          - heading "254 W 27ST ST, NEW YORK, NY 10011" [level=6] [ref=f1e33]: 254 W 27ST ST, NEW YORK, NY 10011
+          - heading "(212) 123-4567" [level=6] [ref=f1e35]: (212) 123-4567
+          - paragraph [ref=f1e36]:
+            - text: Monday - Wednesday 9am - 7pm
+            - text: Thursday - Saturday 9am - 8pm
+            - text: Sunday 9am - 6pm
+          - link "View Products" [ref=f1e37] [cursor=pointer]:
+            - /url: "#"
+          - paragraph [ref=f1e38]:
+            - text: Image from
+            - link "Freepik" [ref=f1e39] [cursor=pointer]:
+              - /url: https://www.freepik.com/photos/man
+        - generic [ref=f1e42]:
+          - generic:
+            - heading "We bake fresh, handmade bread, pastries and cakes every day" [level=2] [ref=f1e43]
+            - generic [ref=f1e45]:
+              - generic [ref=f1e47]:
+                - heading "Baked Fresh Daily" [level=5] [ref=f1e49]
+                - paragraph [ref=f1e50]: Our bread is baked fresh daily, contains no preservatives and is very high in quality. It is also especially nice and soft
+              - generic [ref=f1e52]:
+                - heading "Great Value" [level=5] [ref=f1e54]
+                - paragraph [ref=f1e55]: With the most competitive prices on the market we are able to deliver great value without compromising on taste
+              - generic [ref=f1e57]:
+                - heading "Institutions" [level=5] [ref=f1e59]
+                - paragraph [ref=f1e60]: We serve a wide range of institutions including universities, airlines, hotels and schools. Order daily for tomorrow
+              - generic [ref=f1e62]:
+                - heading "Delivery To Your Door" [level=5] [ref=f1e64]
+                - paragraph [ref=f1e65]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+              - generic [ref=f1e67]:
+                - heading "No Order Too Large" [level=5] [ref=f1e69]
+                - paragraph [ref=f1e70]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+        - generic [ref=f1e71]:
+          - heading "Our Bread" [level=2] [ref=f1e72]
+          - paragraph [ref=f1e73]: A values-driven bakery
+          - generic [ref=f1e75]:
+            - img [ref=f1e78] [cursor=pointer]
+            - img [ref=f1e82] [cursor=pointer]
+            - img [ref=f1e86] [cursor=pointer]
+            - img [ref=f1e90] [cursor=pointer]
+          - paragraph [ref=f1e92]:
+            - text: Images from
+            - link "Freepik" [ref=f1e93] [cursor=pointer]:
+              - /url: https://www.freepik.com
+        - generic [ref=f1e99]:
+          - heading "About Bakery" [level=2] [ref=f1e100]
+          - paragraph [ref=f1e101]: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          - generic [ref=f1e103]:
+            - heading "Our People" [level=5] [ref=f1e106]:
+              - link "Our People" [ref=f1e107] [cursor=pointer]:
+                - /url: "#"
+            - heading "Our Values" [level=5] [ref=f1e110]:
+              - link "Our Values" [ref=f1e111] [cursor=pointer]:
+                - /url: "#"
+            - heading "Our History" [level=5] [ref=f1e114]:
+              - link "Our History" [ref=f1e115] [cursor=pointer]:
+                - /url: "#"
+            - heading "Our Culture" [level=5] [ref=f1e118]:
+              - link "Our Culture" [ref=f1e119] [cursor=pointer]:
+                - /url: "#"
+            - heading "ingridients" [level=5] [ref=f1e122]:
+              - link "ingridients" [ref=f1e123] [cursor=pointer]:
+                - /url: "#"
+            - heading "Our Bakery" [level=5] [ref=f1e126]:
+              - link "Our Bakery" [ref=f1e127] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f1e131]:
+          - generic:
+            - img [ref=f1e132]
+            - generic [ref=f1e134]:
+              - 'heading "We''ve had one goal: to bake the best tasting breads, cakes and pastries." [level=3] [ref=f1e135]': "We've had one goal: to bake the best tasting breads, cakes and pastries."
+              - paragraph [ref=f1e136]: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              - paragraph [ref=f1e137]:
+                - text: Image from
+                - link "Freepik" [ref=f1e138] [cursor=pointer]:
+                  - /url: https://www.freepik.com
+              - link "View Products" [ref=f1e139] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f1e147]:
+          - heading "Fresh baked breads" [level=6] [ref=f1e148]
+          - heading "Baked fresh daily by bakers with passion" [level=3] [ref=f1e149]
+          - paragraph [ref=f1e150]: Article evident arrived express highest men did boy. Mistress sensible entirely am so. Quick can manor smart money hopes worth too. Comfort produce husband boy her had hearing. Law others theirs passed but wishes. You day real less till dear read.
+          - list [ref=f1e151]:
+            - listitem [ref=f1e152]:
+              - generic [ref=f1e154]: ✔
+              - text: Tasty, fresh bread baked daily
+            - listitem [ref=f1e155]:
+              - generic [ref=f1e157]: ✔
+              - text: We bake real, clean-label bread
+          - link "View Products" [ref=f1e158] [cursor=pointer]:
+            - /url: "#"
+          - paragraph [ref=f1e159]:
+            - text: Image from
+            - link "Freepik" [ref=f1e160] [cursor=pointer]:
+              - /url: https://www.freepik.com
+        - generic [ref=f1e161]:
+          - generic:
+            - heading "Brownies, Pastries, etc" [level=2] [ref=f1e162]
+            - generic [ref=f1e164]:
+              - generic [ref=f1e166]:
+                - heading "croissant" [level=4] [ref=f1e168]
+                - paragraph [ref=f1e169]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - link "more" [ref=f1e170] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e172]:
+                - heading "Brownies" [level=4] [ref=f1e174]
+                - paragraph [ref=f1e175]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - link "more" [ref=f1e176] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e178]:
+                - heading "cinnamon bun" [level=4] [ref=f1e180]
+                - paragraph [ref=f1e181]:
+                  - text: Sample text. Click to select the text box.
+                  - link "Click again" [ref=f1e182] [cursor=pointer]:
+                    - /url: "#"
+                  - text: or double click to start editing the text.
+                - link "more" [ref=f1e183] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e185]:
+                - heading "turkish bagels" [level=4] [ref=f1e187]
+                - paragraph [ref=f1e188]:
+                  - text: Sample text. Click to select the text box.
+                  - link "Click again" [ref=f1e189] [cursor=pointer]:
+                    - /url: "#"
+                  - text: or double click to start editing the text.
+                - link "more" [ref=f1e190] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e192]:
+                - heading "Doughnuts" [level=4] [ref=f1e194]
+                - paragraph [ref=f1e195]:
+                  - text: Sample text. Click to select the text box.
+                  - link "Click again" [ref=f1e196] [cursor=pointer]:
+                    - /url: "#"
+                  - text: or double click to start editing the text.
+                - link "more" [ref=f1e197] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e199]:
+                - heading "Tarts" [level=4] [ref=f1e201]
+                - paragraph [ref=f1e202]:
+                  - text: Sample text. Click to select the text box.
+                  - link "Click again" [ref=f1e203] [cursor=pointer]:
+                    - /url: "#"
+                  - text: or double click to start editing the text.
+                - link "more" [ref=f1e204] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e206]:
+                - heading "shortbread" [level=4] [ref=f1e208]
+                - paragraph [ref=f1e209]:
+                  - text: Sample text. Click to select the text box.
+                  - link "Click again" [ref=f1e210] [cursor=pointer]:
+                    - /url: "#"
+                  - text: or double click to start editing the text.
+                - link "more" [ref=f1e211] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e213]:
+                - heading "Cookies" [level=4] [ref=f1e215]
+                - paragraph [ref=f1e216]:
+                  - text: Sample text. Click to select the text box.
+                  - link "Click again" [ref=f1e217] [cursor=pointer]:
+                    - /url: "#"
+                  - text: or double click to start editing the text.
+                - link "more" [ref=f1e218] [cursor=pointer]:
+                  - /url: "#"
+            - paragraph [ref=f1e219]:
+              - text: Images from
+              - link "Freepik" [ref=f1e220] [cursor=pointer]:
+                - /url: https://www.freepik.com/
+        - generic [ref=f1e221]:
+          - generic:
+            - heading "Testimonials" [level=2] [ref=f1e222]
+            - generic [ref=f1e224]:
+              - generic [ref=f1e226]:
+                - paragraph [ref=f1e228]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - heading "stella larson" [level=6] [ref=f1e229]
+              - generic [ref=f1e231]:
+                - paragraph [ref=f1e233]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - heading "nick jhonson" [level=6] [ref=f1e234]
+              - generic [ref=f1e236]:
+                - paragraph [ref=f1e238]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - heading "olga ivanova" [level=6] [ref=f1e239]
+              - generic [ref=f1e241]:
+                - paragraph [ref=f1e243]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - heading "paul hudson" [level=6] [ref=f1e244]
+              - generic [ref=f1e246]:
+                - paragraph [ref=f1e248]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - heading "cash hudson" [level=6] [ref=f1e249]
+              - generic [ref=f1e251]:
+                - paragraph [ref=f1e253]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+                - heading "mike perry" [level=6] [ref=f1e254]
+        - generic [ref=f1e255]:
+          - generic [ref=f1e258]:
+            - generic [ref=f1e260]:
+              - img [ref=f1e261]
+              - heading "Breads" [level=3] [ref=f1e262]
+              - paragraph [ref=f1e263]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+            - generic [ref=f1e265]:
+              - img [ref=f1e266]
+              - heading "Cookies" [level=3] [ref=f1e267]
+              - paragraph [ref=f1e268]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+            - generic [ref=f1e270]:
+              - img [ref=f1e271]
+              - heading "Pastries" [level=3] [ref=f1e272]
+              - paragraph [ref=f1e273]: Sample text. Click to select the text box. Click again or double click to start editing the text.
+          - generic [ref=f1e276]:
+            - generic [ref=f1e278]:
+              - heading "Sign up for the newsletter" [level=4] [ref=f1e279]
+              - paragraph [ref=f1e280]: Want to be the first to read our news? Subscribe to the newsletter to keep abreast of all events.
+              - generic [ref=f1e282]:
+                - textbox "Email" [ref=f1e284]:
+                  - /placeholder: Enter a valid email address
+                - link "Submit" [ref=f1e286] [cursor=pointer]:
+                  - /url: "#"
+              - generic [ref=f1e287]:
+                - link "facebook" [ref=f1e288] [cursor=pointer]:
+                  - /url: https://facebook.com/name
+                  - generic [ref=f1e289]:
+                    - img [ref=f1e290]
+                    - img
+                - link "twitter" [ref=f1e293] [cursor=pointer]:
+                  - /url: https://twitter.com/name
+                  - generic [ref=f1e294]:
+                    - img [ref=f1e295]
+                    - img
+                - link "instagram" [ref=f1e298] [cursor=pointer]:
+                  - /url: https://instagram.com/name
+                  - generic [ref=f1e299]:
+                    - img [ref=f1e300]
+                    - img
+                - link "Custom" [ref=f1e305] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=f1e306]:
+                    - img [ref=f1e307]
+                    - img
+                - link "Custom" [ref=f1e318] [cursor=pointer]:
+                  - /url: ""
+                  - generic [ref=f1e319]:
+                    - img [ref=f1e320]
+                    - img
+            - generic [ref=f1e326]:
+              - heading "Hours & Location" [level=3] [ref=f1e327]
+              - heading "14 E 12th St, New York, NY 10007 (123) 456-2253" [level=5] [ref=f1e328]:
+                - link "14 E 12th St, New York, NY 10007 (123) 456-2253" [ref=f1e329] [cursor=pointer]:
+                  - /url: "#"
+                  - text: 14 E 12th St,
+                  - text: New York, NY 10007
+                  - text: (123) 456-2253
+              - paragraph [ref=f1e330]:
+                - text: Monday - Sunday
+                - text: 7:00am - 8:00pm
+              - paragraph [ref=f1e331]:
+                - text: Image from
+                - link "Freepik" [ref=f1e332] [cursor=pointer]:
+                  - /url: https://freepik.com/photos/people
+        - contentinfo [ref=f1e333]:
+          - generic:
+            - link [ref=f1e334] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=f1e335]
+            - generic [ref=f1e338]:
+              - generic [ref=f1e340]:
+                - heading "Quick Links" [level=5] [ref=f1e341]
+                - paragraph [ref=f1e343]:
+                  - link "About Us" [ref=f1e344] [cursor=pointer]:
+                    - /url: "#"
+                  - link "Bakery Menu" [ref=f1e345] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Bakery Menu
+                  - link "Visit Us" [ref=f1e346] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Visit Us
+                  - link "Testimonials" [ref=f1e347] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=f1e349]:
+                - heading "Help" [level=5] [ref=f1e350]
+                - paragraph [ref=f1e352]:
+                  - link "FAQs" [ref=f1e353] [cursor=pointer]:
+                    - /url: "#"
+                  - link "Allergens" [ref=f1e354] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Allergens
+                  - link "Contact Us" [ref=f1e355] [cursor=pointer]:
+                    - /url: "#"
+                    - text: Contact Us
+                  - link "Have Your Say" [ref=f1e356] [cursor=pointer]:
+                    - /url: "#"
+              - generic [ref=f1e358]:
+                - heading "Get In Touch" [level=5] [ref=f1e359]
+                - paragraph [ref=f1e361]: 14 E 12th St,New York, NY 10007, United States
+                - paragraph [ref=f1e363]:
+                  - link "hi@bakery.com" [ref=f1e365] [cursor=pointer]:
+                    - /url: mailto:hi@car.repair.com
+                - paragraph [ref=f1e366]:
+                  - link "+1 (234) 567-8910" [ref=f1e367] [cursor=pointer]:
+                    - /url: tel:+12345678910
+                    - text: +1 (234) 567-8910
+              - generic [ref=f1e370]:
+                - heading "Subscribe" [level=5] [ref=f1e371]
+                - generic [ref=f1e374]:
+                  - textbox "Email" [ref=f1e376]:
+                    - /placeholder: Enter a valid email address
+                  - link "send a message" [ref=f1e378] [cursor=pointer]:
+                    - /url: "#"
+            - paragraph [ref=f1e379]:
+              - text: Images from
+              - link "Freepik" [ref=f1e380] [cursor=pointer]:
+                - /url: https://www.freepik.com/
+            - generic [ref=f1e381]:
+              - link "facebook" [ref=f1e382] [cursor=pointer]:
+                - /url: https://facebook.com/name
+                - generic [ref=f1e383]:
+                  - img [ref=f1e384]
+                  - img
+              - link "twitter" [ref=f1e387] [cursor=pointer]:
+                - /url: https://twitter.com/name
+                - generic [ref=f1e388]:
+                  - img [ref=f1e389]
+                  - img
+              - link "instagram" [ref=f1e392] [cursor=pointer]:
+                - /url: https://instagram.com/name
+                - generic [ref=f1e393]:
+                  - img [ref=f1e394]
+                  - img
+        - paragraph [ref=f1e399]:
+          - text: This site was created with the
+          - link "Nicepage" [ref=f1e400] [cursor=pointer]:
+            - /url: https://nicepage.com/
+  - link "NicePage.com" [ref=e14] [cursor=pointer]:
+    - /url: /
+    - img "NicePage.com" [ref=e15]
+  - generic [ref=e16]:
+    - paragraph [ref=e18]:
+      - text: By using this website, you automatically accept that we use cookies. Learn more about our
+      - link "privacy and cookies policy" [ref=e19] [cursor=pointer]:
+        - /url: https://nicepage.com/privacy
+      - text: .
+    - button "Accept" [ref=e21] [cursor=pointer]

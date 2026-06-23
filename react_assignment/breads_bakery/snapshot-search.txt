@@ -1,0 +1,1027 @@
+PS C:\Users\nadak\Desktop\React\holiday_assignment> 
+u-opacity-70","text":""},{"tag":"FORM","id":"","class":"u-align-center-md 
+u-align-center-sm u-align-center-xs u-search u-search-layout-icon 
+u-search-left u-white u-search-1","text":""},{"tag":"DIV","id":"","class":"u-se
+arch-overlay","text":""},{"tag":"BUTTON","id":"","class":"u-search-button","tex
+t":""},{"tag":"SPAN","id":"","class":"u-search-icon u-search-icon-1","text":""}
+,{"tag":"svg","id":"","class":{},"text":""},{"tag":"svg","id":"svg-6416","class
+":{},"text":""},{"tag":"INPUT","id":"","class":"u-search-input","text":""}]
+> react_assignment\breads_bakery\snapshot-4.txt:1:Result: 
+[{"tag":"HTML","id":"","class":"u-responsive-md","text":"Landing\n    \n\n\n   
+ \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    
+\n    \n    \n    \n    \n    {\n\t\t\"@conte"},{"tag":"SCRIPT","id":"","class"
+:"u-script","text":""},{"tag":"SCRIPT","id":"","class":"u-script","text":""},{"
+tag":"LINK","id":"u-theme-google-font","class":"","text":""},{"tag":"LINK","id"
+:"u-page-google-font","class":"","text":""},{"tag":"BODY","id":"","class":"u-bo
+dy u-xl-mode","text":"Bakery\nPagesAbout us\nLanding\nBakery Team\nWorkshops 
+Page\n\n\nOur Bread\nContact\n\n          \n          \n            \n        
+"},{"tag":"HEADER","id":"sec-f27d","class":"u-clearfix 
+u-container-align-center-md u-header","text":"Bakery\nPagesAbout 
+us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          
+\n          \n            \n        
+"},{"tag":"DIV","id":"","class":"u-clearfix u-sheet u-valign-middle-md 
+u-valign-middle-xxl u-sheet-1","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          \n          \n       
+     \n        "},{"tag":"A","id":"","class":"u-image u-logo 
+u-image-1","text":""},{"tag":"IMG","id":"","class":"u-logo-image 
+u-logo-image-1","text":""},{"tag":"NAV","id":"","class":"u-align-center-md 
+u-align-center-sm u-align-center-xs u-dropdown-icon u-menu u-menu-dropdown 
+u-offcanvas u-menu-1","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          \n          \n       
+     \n        "},{"tag":"DIV","id":"","class":"menu-collapse","text":""},{"tag
+":"A","id":"","class":"u-button-style u-custom-active-border-color 
+u-custom-active-color u-custom-border u-custom-border-color u-custom-borders 
+u-custom-color u-custom-hover-border-color u-custom-hover-color 
+u-custom-left-right-menu-spacing u-custom-padding-bottom 
+u-custom-text-active-color u-custom-text-color u-custom-text-decoration 
+u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-hamburger-link 
+u-nav-link u-text-active-palette-1-base u-text-hover-palette-1-base","text":""}
+,{"tag":"svg","id":"","class":{},"text":""},{"tag":"svg","id":"menu-hamburger",
+"class":{},"text":""},{"tag":"DIV","id":"","class":"u-custom-menu 
+u-nav-container","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+Team\nWorkshops Page\n\n\nOur 
+Bread\nContact"},{"tag":"UL","id":"","class":"u-nav u-spacing-20 u-unstyled 
+u-nav-1","text":"Bakery\nPagesAbout us\nLanding\nBakery Team\nWorkshops 
+Page\n\n\nOur Bread\nContact"},{"tag":"LI","id":"","class":"u-nav-item","text":
+"Bakery"},{"tag":"A","id":"","class":"u-border-2 
+u-border-active-palette-1-base u-border-hover-palette-1-light-1 
+u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link 
+u-text-active-palette-1-base u-text-hover-palette-1-base","text":"Bakery"},{"ta
+g":"LI","id":"","class":"u-nav-item","text":"PagesAbout us\nLanding\nBakery 
+Team\nWorkshops Page"},{"tag":"A","id":"","class":"u-border-2 
+u-border-active-palette-1-base u-border-hover-palette-1-light-1 
+u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link 
+u-text-active-palette-1-base u-text-hover-palette-1-base active","text":"Pages"
+},{"tag":"DIV","id":"","class":"u-nav-popup","text":"About us\nLanding\nBakery 
+Team\nWorkshops Page"},{"tag":"UL","id":"","class":"u-h-spacing-22 u-nav 
+u-unstyled u-v-spacing-12","text":"About us\nLanding\nBakery Team\nWorkshops 
+Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"About 
+us"},{"tag":"A","id":"","class":"u-active-black u-black u-button-style 
+u-hover-palette-1-base u-nav-link","text":"About us"},{"tag":"LI","id":"","clas
+s":"u-nav-item","text":"Landing"},{"tag":"A","id":"","class":"u-active-black 
+u-black u-button-style u-hover-palette-1-base u-nav-link active","text":"Landin
+g"},{"tag":"LI","id":"","class":"u-nav-item","text":"Bakery 
+Team"},{"tag":"A","id":"","class":"u-active-black u-black u-button-style 
+u-hover-palette-1-base u-nav-link","text":"Bakery 
+Team"},{"tag":"LI","id":"","class":"u-nav-item","text":"Workshops 
+Page"},{"tag":"A","id":"","class":"u-active-black u-black u-button-style 
+u-hover-palette-1-base u-nav-link","text":"Workshops 
+Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"Our 
+Bread"},{"tag":"A","id":"","class":"u-border-2 u-border-active-palette-1-base 
+u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right 
+u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base 
+u-text-hover-palette-1-base","text":"Our Bread"},{"tag":"LI","id":"","class":"u
+-nav-item","text":"Contact"},{"tag":"A","id":"","class":"u-border-2 
+u-border-active-palette-1-base u-border-hover-palette-1-light-1 
+u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link 
+u-text-active-palette-1-base u-text-hover-palette-1-base","text":"Contact"},{"t
+ag":"DIV","id":"","class":"u-custom-menu 
+u-nav-container-collapse","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n                 Book an 
+appointment"},{"tag":"DIV","id":"","class":"u-black u-container-style 
+u-inner-container-layout u-opacity u-opacity-95 
+u-sidenav","text":"Bakery\nPagesAbout us\nLanding\nBakery Team\nWorkshops 
+Page\n\n\nOur Bread\nContact\n\n                 Book an 
+appointment"},{"tag":"DIV","id":"","class":"u-inner-container-layout 
+u-sidenav-overflow","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n                 Book an appoin
+tment"},{"tag":"DIV","id":"","class":"u-menu-close","text":""},{"tag":"UL","id"
+:"","class":"u-align-center u-nav u-popupmenu-items u-unstyled 
+u-nav-3","text":"Bakery\nPagesAbout us\nLanding\nBakery Team\nWorkshops 
+Page\n\n\nOur Bread\nContact"},{"tag":"LI","id":"","class":"u-nav-item","text":
+"Bakery"},{"tag":"A","id":"","class":"u-button-style u-nav-link","text":"Bakery
+"},{"tag":"LI","id":"","class":"u-nav-item","text":"PagesAbout 
+us\nLanding\nBakery Team\nWorkshops 
+Page"},{"tag":"A","id":"","class":"u-button-style u-nav-link active","text":"Pa
+ges"},{"tag":"DIV","id":"","class":"u-nav-popup","text":"About 
+us\nLanding\nBakery Team\nWorkshops 
+Page"},{"tag":"UL","id":"","class":"u-h-spacing-22 u-nav u-unstyled 
+u-v-spacing-12","text":"About us\nLanding\nBakery Team\nWorkshops 
+Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"About 
+us"},{"tag":"A","id":"","class":"u-button-style u-nav-link","text":"About us"},
+{"tag":"LI","id":"","class":"u-nav-item","text":"Landing"},{"tag":"A","id":"","
+class":"u-button-style u-nav-link active","text":"Landing"},{"tag":"LI","id":""
+,"class":"u-nav-item","text":"Bakery 
+Team"},{"tag":"A","id":"","class":"u-button-style u-nav-link","text":"Bakery 
+Team"},{"tag":"LI","id":"","class":"u-nav-item","text":"Workshops 
+Page"},{"tag":"A","id":"","class":"u-button-style 
+u-nav-link","text":"Workshops 
+Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"Our 
+Bread"},{"tag":"A","id":"","class":"u-button-style u-nav-link","text":"Our Brea
+d"},{"tag":"LI","id":"","class":"u-nav-item","text":"Contact"},{"tag":"A","id":
+"","class":"u-button-style 
+u-nav-link","text":"Contact"},{"tag":"A","id":"","class":"u-align-center u-btn 
+u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-text-active-white 
+u-btn-1","text":"Book an 
+appointment"},{"tag":"DIV","id":"","class":"u-social-icons u-social-icons-1","t
+ext":""},{"tag":"A","id":"","class":"u-social-url","text":""},{"tag":"SPAN","id
+":"","class":"u-icon u-social-facebook u-social-icon u-text-palette-1-base u-ic
+on-1","text":""},{"tag":"svg","id":"","class":{},"text":""},{"tag":"svg","id":"
+svg-6262","class":{},"text":""},{"tag":"A","id":"","class":"u-social-url","text
+":""},{"tag":"SPAN","id":"","class":"u-icon u-social-icon u-social-twitter 
+u-text-palette-1-base u-icon-2","text":""},{"tag":"svg","id":"","class":{},"tex
+t":""},{"tag":"svg","id":"svg-d3b0","class":{},"text":""},{"tag":"A","id":"","c
+lass":"u-social-url","text":""},{"tag":"SPAN","id":"","class":"u-icon 
+u-social-icon u-social-instagram u-text-palette-1-base u-icon-3","text":""},{"t
+ag":"svg","id":"","class":{},"text":""},{"tag":"svg","id":"svg-8121","class":{}
+,"text":""},{"tag":"DIV","id":"","class":"u-black u-menu-overlay u-opacity 
+u-opacity-70","text":""},{"tag":"FORM","id":"","class":"u-align-center-md 
+u-align-center-sm u-align-center-xs u-search u-search-layout-icon 
+u-search-left u-white u-search-1","text":""},{"tag":"DIV","id":"","class":"u-se
+arch-overlay","text":""},{"tag":"BUTTON","id":"","class":"u-search-button","tex
+t":""},{"tag":"SPAN","id":"","class":"u-search-icon u-search-icon-1","text":""}
+,{"tag":"svg","id":"","class":{},"text":""},{"tag":"svg","id":"svg-6416","class
+":{},"text":""},{"tag":"INPUT","id":"","class":"u-search-input","text":""}]
+> react_assignment\breads_bakery\snapshot-5.txt:1:Result: 
+[{"tag":"HEADER","id":"sec-f27d","class":"u-clearfix 
+u-container-align-center-md u-header","text":"Bakery\nPagesAbout 
+us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          
+\n          \n            \n              \n                \n                
+Bakery\nPagesAbout us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+Bread\nContact\n\n                 Book an appointment\n                \n     
+    ","html":"<header class=\"u-clearfix u-container-align-center-md 
+u-header\" id=\"sec-f27d\" data-animation-name=\"\" 
+data-animation-duration=\"0\" data-animation-delay=\"0\" 
+data-animation-direction=\"\"><div class=\"u-clearfix u-sheet 
+u-valign-middle-md u-valign-middle-xxl u-sheet-1\">\n        <a href=\"#\" 
+class=\"u-image u-logo u-image-1\" data-image-width=\"991\" 
+data-image-height=\"180\">\n          <img class=\"u-logo-image 
+u-logo-image-1\" 
+src=\"https://assets.nicepagecdn.com/d2cc3eaa/3256687/images/logo-2.png\">\n   
+     </a>\n        <nav class=\"u-align-center-md u-align-center-sm 
+u-align-center-xs u-dropdown-icon u-menu u-menu-dropdown u-offcanvas 
+u-menu-1\" data-responsive-from=\"SM\">\n          <div 
+class=\"menu-collapse\" style=\"font-size: 0.875rem; letter-spacing: 0px; 
+text-transform: uppercase; font-weight: 600;\">\n            <a 
+class=\"u-button-style u-custom-active-border-color u-custom-active-color 
+u-custom-border u-custom-border-color u-custom-borders u-custom-color 
+u-custom-hover-border-color 
+u-custom-hover-co"},{"tag":"SECTION","id":"sec-186b","class":"u-align-center 
+u-clearfix u-container-align-center u-valign-middle u-section-1","text":"fresh 
+bread & baked goods\n                \n                \n                  
+Baked fresh daily\n                \n                \n                  ​254 
+W 27ST ST, NEW YORK, NY 10011\n                \n                \n            
+      ​(212) 123-4567\n                \n                 Monday - 
+Wed","html":"<section class=\"u-align-center u-clearfix 
+u-container-align-center u-valign-middle u-section-1\" id=\"sec-186b\">\n      
+<div class=\"data-layout-selected u-clearfix u-layout-wrap 
+u-layout-wrap-1\">\n        <div class=\"u-layout\">\n          <div 
+class=\"u-layout-row\">\n            <div class=\"u-align-left 
+u-container-align-left u-container-style u-layout-cell u-size-27-lg 
+u-size-27-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1 animated 
+customAnimationIn-played\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" style=\"will-change: transform, opacity; 
+animation-duration: 1500ms;\">\n              <div class=\"u-container-layout 
+u-valign-middle u-container-layout-1\">\n                <h6 
+class=\"u-align-left u-text u-text-1\"> fresh bread &amp; baked 
+goods&nbsp;<br>\n                </h6>\n                <h2 
+class=\"u-align-left u-text u-text-2\">\n                  <span 
+style=\"font-weight: 700;\"></span>Baked fresh daily\n                </h2>\n  
+              <h6 
+class=\"u-al"},{"tag":"SECTION","id":"carousel_edf6","class":"u-align-center 
+u-clearfix u-container-align-center u-section-2","text":"We bake fresh, 
+handmade bread, pastries and cakes every day\n        \n          \n           
+ \n              \n                \n                 Baked Fresh Daily\n      
+           Our bread is baked fresh daily, contains no preservatives and is 
+very high in quality. It is also especially nice and soft\n","html":"<section 
+class=\"u-align-center u-clearfix u-container-align-center u-section-2\" 
+id=\"carousel_edf6\">\n      <div class=\"u-clearfix u-sheet 
+u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1\">\n        
+<h2 class=\"u-align-center u-text u-text-1 backstage u-backstage-hidden 
+animated\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"0\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\"> We 
+bake fresh, handmade bread, pastries and cakes every day</h2>\n        <div 
+class=\"u-expanded-width u-list u-list-1\">\n          <div class=\"u-repeater 
+u-repeater-1\">\n            <div class=\"u-container-align-center 
+u-container-style u-list-item u-repeater-item u-list-item-1 backstage 
+u-backstage-hidden animated\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"500\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\">\n      
+        <div class=\"u-container-layout 
+u-similar-"},{"tag":"SECTION","id":"carousel_2c33","class":"u-clearfix 
+u-container-align-center u-section-3","text":"Our Bread\n       A 
+values-driven bakery\n      \n        \n          \n            \n             
+ \n            \n            \n          \n          \n            \n          
+    \n            \n            \n          \n          \n            \n       
+       \n            \n            \n          \n          \n     
+","html":"<section class=\"u-clearfix u-container-align-center u-section-3\" 
+id=\"carousel_2c33\">\n      <h2 class=\"u-align-center u-text u-text-1 
+backstage u-backstage-hidden animated\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\">Our 
+Bread</h2>\n      <p class=\"u-align-center u-text u-text-2 backstage 
+u-backstage-hidden animated\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"500\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\"> A 
+values-driven bakery</p>\n      <div class=\"u-expanded-width u-gallery 
+u-layout-grid u-lightbox u-show-text-on-hover u-gallery-1\" 
+data-pswp-uid=\"1\">\n        <div class=\"u-gallery-inner 
+u-gallery-inner-1\">\n          <div class=\"u-effect-fade u-gallery-item 
+u-shape-rectangle\" data-pswp-item-id=\"0\" data-gallery-uid=\"1\">\n          
+  <div class=\"u-back-slide\" data-image-width=\"800\" 
+data-image-height=\"604\">\n             
+"},{"tag":"SECTION","id":"carousel_10bb","class":"u-align-center u-clearfix 
+u-container-align-center u-white u-section-4","text":"About Bakery\n           
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+commodo consequat. \n                  \n                ","html":"<section 
+class=\"u-align-center u-clearfix u-container-align-center u-white 
+u-section-4\" id=\"carousel_10bb\">\n      <div class=\"u-clearfix u-sheet 
+u-valign-middle u-sheet-1\">\n        <div class=\"u-clearfix u-expanded-width 
+u-layout-wrap u-layout-wrap-1\">\n          <div class=\"u-layout\">\n         
+   <div class=\"u-layout-row\">\n              <div 
+class=\"u-container-align-left u-container-style u-layout-cell u-size-32-lg 
+u-size-32-xl u-size-60-md u-size-60-sm u-size-60-xs u-white u-layout-cell-1 
+backstage u-backstage-hidden animated\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+data-animation-delay=\"500\" style=\"will-change: transform, opacity; 
+animation-duration: 1500ms;\">\n                <div 
+class=\"u-container-layout u-valign-middle u-container-layout-1\">\n           
+       <h2 class=\"u-align-left u-text u-text-default u-text-1\">About 
+Bakery</h2>\n                  <p class=\"u-align-left u-text u-text-default 
+u-text-2\"> Lorem ipsum dolor sit amet, consectetur 
+adipis"},{"tag":"SECTION","id":"carousel_73af","class":"u-clearfix 
+u-container-align-center-xl u-palette-1-base u-valign-middle-lg 
+u-valign-middle-md u-valign-middle-sm u-valign-middle-xs 
+u-section-5","text":"We've had one goal: to bake the best tasting breads, 
+cakes and pastries.\n            \n             Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
+ullamco laboris nisi ut al","html":"<section class=\"u-clearfix 
+u-container-align-center-xl u-palette-1-base u-valign-middle-lg 
+u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-5\" 
+id=\"carousel_73af\" data-animation-name=\"\" data-animation-duration=\"0\" 
+data-animation-delay=\"0\" data-animation-direction=\"\">\n      <div 
+class=\"u-clearfix u-sheet u-valign-middle u-sheet-1\">\n        <img 
+class=\"u-image u-image-round u-radius-20 u-image-1 backstage 
+u-backstage-hidden animated\" 
+src=\"https://assets.nicepagecdn.com/d2cc3eaa/3266805/images/tttt.jpg\" 
+data-image-width=\"1200\" data-image-height=\"800\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+data-animation-delay=\"500\" style=\"will-change: transform, opacity; 
+animation-duration: 1500ms;\">\n        <div class=\"u-container-align-left 
+u-container-style u-group u-radius-20 u-shape-round u-white u-group-1 
+backstage u-backstage-hidden animated\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+data-animation-delay=\"500\" 
+style=\"will"},{"tag":"SECTION","id":"carousel_f19f","class":"u-align-center 
+u-clearfix u-container-align-center u-valign-middle u-section-6","text":"Fresh 
+baked breads\n                 Baked fresh daily by bakers with passion\n      
+           Article evident arrived express highest men did boy. Mistress 
+sensible entirely am so. Quick can manor smart money hopes worth too. Comfort 
+produce husband boy her had hearing. Law others theirs passed but 
+","html":"<section class=\"u-align-center u-clearfix u-container-align-center 
+u-valign-middle u-section-6\" id=\"carousel_f19f\">\n      <div 
+class=\"u-clearfix u-layout-wrap u-layout-wrap-1\">\n        <div 
+class=\"u-layout\">\n          <div class=\"u-layout-row\">\n            <div 
+class=\"u-align-left u-container-align-center u-container-align-left 
+u-container-style u-image u-image-default u-layout-cell u-size-33-lg 
+u-size-33-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1 backstage 
+u-backstage-hidden animated\" data-image-width=\"1321\" 
+data-image-height=\"998\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"250\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\">\n      
+        <div class=\"u-container-layout u-container-layout-1\"></div>\n        
+    </div>\n            <div class=\"u-container-style u-layout-cell 
+u-size-27-lg u-size-27-xl u-size-60-md u-size-60-sm u-size-60-xs 
+u-layout-cell-2 backstage u-backstage-hidden animated\" data-animation-"},{"tag
+":"SECTION","id":"carousel_a713","class":"u-align-center u-clearfix 
+u-container-align-center u-palette-1-base u-section-7","text":"Brownies, 
+Pastries, etc\n        \n          \n            \n              \n            
+    \n                 croissant\n                Sample text. Click to select 
+the text box. Click again or double click to start editing the text.\n         
+       more\n              \n            \n            \n        
+","html":"<section class=\"u-align-center u-clearfix u-container-align-center 
+u-palette-1-base u-section-7\" id=\"carousel_a713\">\n      <div 
+class=\"u-clearfix u-sheet u-sheet-1\">\n        <h2 class=\"u-align-center 
+u-text u-text-1\"> Brownies, Pastries, etc</h2>\n        <div 
+class=\"u-expanded-width u-list u-list-1\">\n          <div class=\"u-repeater 
+u-repeater-1\">\n            <div class=\"u-align-left 
+u-container-align-center u-container-align-left u-container-style u-list-item 
+u-radius-20 u-repeater-item u-shape-round u-white u-list-item-1\">\n           
+   <div class=\"u-container-layout u-similar-container u-valign-top 
+u-container-layout-1\">\n                <div class=\"u-image u-image-circle 
+u-image-1\" alt=\"\" data-image-width=\"1277\" 
+data-image-height=\"995\"></div>\n                <h4 class=\"u-align-center 
+u-custom-font u-font-montserrat u-text u-text-default u-text-2\"> 
+croissant</h4>\n                <p class=\"u-align-center u-text 
+u-text-3\">Sample text. Click to select the text box. Click again or 
+double"},{"tag":"SECTION","id":"carousel_32ca","class":"u-align-center 
+u-clearfix u-container-align-center u-palette-1-base 
+u-section-8","text":"Testimonials\n        \n          \n            \n        
+      \n                \n                Sample text. Click to select the 
+text box. Click again or double click to start editing the text.\n             
+   stella larson\n              \n            \n            \n              \n 
+               \n     ","html":"<section class=\"u-align-center u-clearfix 
+u-container-align-center u-palette-1-base u-section-8\" 
+id=\"carousel_32ca\">\n      <div class=\"u-clearfix u-sheet u-valign-middle 
+u-sheet-1\">\n        <h2 class=\"u-align-center u-text u-text-default 
+u-text-1\">Testimonials</h2>\n        <div class=\"u-list u-list-1\">\n        
+  <div class=\"u-repeater u-repeater-1\">\n            <div 
+class=\"u-container-align-center u-container-style u-list-item u-radius-20 
+u-repeater-item u-shape-round u-white u-list-item-1\">\n              <div 
+class=\"u-container-layout u-similar-container u-valign-top 
+u-container-layout-1\">\n                <span class=\"u-align-center 
+u-file-icon u-icon u-text-palette-5-light-1 u-icon-1\"><img src=\"data:image/pn
+g;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAAXNSR0IArs4c6QAAEOxJRE
+FUeF7tXXuYG9V1/52R1uvXZ1hDsGniJBCSlpKQL8RQjG2N5NVozYI1MnaWUuokQFpaEkJCCzQhcbbhk
+QdNSVPaNC9o3JDPWQPe0YbFlmRrJRsXjAOERxLSJgQIsU0BP2Brr1ea0+/a2tS7K2kempFGq7n/3nPP
+6/7mzsy955xL8FtLe4Ba2nrfePgAaHEQ+ADwAdDiHmhx"},{"tag":"SECTION","id":"sec-104f"
+,"class":"u-clearfix u-section-9","text":"Breads\n              Sample text. 
+Click to select the text box. Click again or double click to start editing the 
+text.\n            \n          \n          \n            \n              \n    
+          Cookies\n              Sample text. Click to select the text box. 
+Click again or double click to start ed","html":"<section class=\"u-clearfix 
+u-section-9\" id=\"sec-104f\">\n      <div class=\"u-expanded-width 
+u-palette-1-base u-shape u-shape-rectangle u-shape-1\"></div>\n      <div 
+class=\"u-list u-list-1\">\n        <div class=\"u-repeater u-repeater-1\">\n  
+        <div class=\"u-container-style u-list-item u-repeater-item 
+u-shape-rectangle\">\n            <div class=\"u-container-layout 
+u-similar-container u-valign-top u-container-layout-1\">\n              <img 
+class=\"u-expanded-width u-image u-image-round u-top-left-radius-20 
+u-top-right-radius-20 u-image-1\" src=\"//images01.nicepagecdn.com/c461c07a441a
+5d220e8feb1a/8baae157ffbe56548790d776/yty.jpg\" data-image-width=\"800\" 
+data-image-height=\"604\">\n              <h3 class=\"u-text 
+u-text-1\">Breads</h3>\n              <p class=\"u-text u-text-default 
+u-text-2\">Sample text. Click to select the text box. Click again or double 
+click to start editing the text.</p>\n            </div>\n          </div>\n   
+       <div class=\"u-container-style u-list-item u-repeater-item 
+u-shap"},{"tag":"FOOTER","id":"sec-3f99","class":"u-align-center-sm 
+u-align-center-xs u-black u-clearfix u-container-align-center 
+u-footer","text":"Quick Links\n                  \n                  \n        
+            About Us\n                    \n                       Bakery 
+Menu\n                    \n                    \n                    Visit 
+Us\n                    \n                    Testimonials\n                   
+ \n                  \n","html":"<footer class=\"u-align-center-sm 
+u-align-center-xs u-black u-clearfix u-container-align-center u-footer\" 
+id=\"sec-3f99\"><div class=\"u-clearfix u-sheet u-valign-middle u-sheet-1\">\n 
+       <a href=\"#\" class=\"u-image u-logo u-image-1\" 
+data-image-width=\"991\" data-image-height=\"426\">\n          <img src=\"https
+://assets.nicepagecdn.com/d2cc3eaa/3256687/images/bakery-logo-white.png\" 
+class=\"u-logo-image u-logo-image-1\">\n        </a>\n        <div 
+class=\"data-layout-selected u-clearfix u-expanded-width u-layout-wrap 
+u-layout-wrap-1\">\n          <div class=\"u-gutter-0 u-layout\">\n            
+<div class=\"u-layout-row\">\n              <div 
+class=\"u-container-align-left u-container-style u-layout-cell 
+u-shape-rectangle u-size-15-lg u-size-15-xl u-size-30-md u-size-30-sm 
+u-size-30-xs u-layout-cell-1\">\n                <div 
+class=\"u-container-layout u-valign-top u-container-layout-1\">\n              
+    <h5 class=\"u-align-left u-text u-text-1\"> Quick Links</h5>\n             
+     <div class=\"u-align-left 
+u-bo"},{"tag":"SECTION","id":"","class":"u-backlink u-clearfix 
+u-grey-80","text":"This site was created with the \n        \n          
+Nicepage","html":"<section class=\"u-backlink u-clearfix u-grey-80\">\n      
+<p class=\"u-text\">\n        <span>This site was created with the </span>\n   
+     <a class=\"u-link\" href=\"https://nicepage.com/\" target=\"_blank\" 
+rel=\"nofollow\">\n          <span>Nicepage</span>\n        </a>\n      </p>\n 
+   </section>"},{"tag":"SECTION","id":"sec-07c9","class":"u-black u-clearfix 
+u-container-style u-dialog-block u-opacity u-opacity-70 u-payment-dialog 
+u-valign-middle u-dialog-section-12","text":"Buy Now\n          \n            
+\n            \n              \n                \n                  \n         
+           Product 1 Title\n                  \n                  \n           
+         Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit 
+nullam nunc justo sagittis suscipit ultri","html":"<section class=\"u-black 
+u-clearfix u-container-style u-dialog-block u-opacity u-opacity-70 
+u-payment-dialog u-valign-middle u-dialog-section-12\" id=\"sec-07c9\">\n      
+<div class=\"u-align-center u-container-style u-dialog u-radius-25 
+u-shape-round u-white u-dialog-1\">\n        <div class=\"u-container-layout 
+u-valign-top u-container-layout-1\">\n          <h5 class=\"u-align-left 
+u-text u-text-1\">Buy Now</h5>\n          <div class=\"u-expanded-width 
+u-products u-products-1\" data-site-sorting-prop=\"created\" 
+data-site-sorting-order=\"desc\" data-items-per-page=\"1\">\n            <div 
+class=\"u-list-control\"></div>\n            <div class=\"u-repeater 
+u-repeater-1\">\n              <!--product_item--><div 
+class=\"u-container-style u-products-item u-repeater-item\">\n                
+<div class=\"u-container-layout u-similar-container u-container-layout-2\">\n  
+                <h5 class=\"u-align-left u-product-control u-text 
+u-text-2\">\n                    <a class=\"u-product-title-link\" 
+href=\"#\">Product 1 
+Title</a"},{"tag":"STYLE","id":"","class":"","text":".u-dialog-section-12 
+.u-dialog-1 {\n  width: 570px;\n  min-height: 578px;\n  height: auto;\n  
+box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);\n  margin: 60px 
+auto;\n}\n\n.u-dialog-section-12 .u-container-layout-1 {\n  padding: 34px 
+35px;\n}\n\n.u-dialog-section-12 .u-text-1 {\n  font-weight: 700;\n  margin: 0 
+165px ","html":"<style>.u-dialog-section-12 .u-dialog-1 {\n  width: 570px;\n  
+min-height: 578px;\n  height: auto;\n  box-shadow: 0px 0px 8px 0px 
+rgba(0,0,0,0.2);\n  margin: 60px auto;\n}\n\n.u-dialog-section-12 
+.u-container-layout-1 {\n  padding: 34px 35px;\n}\n\n.u-dialog-section-12 
+.u-text-1 {\n  font-weight: 700;\n  margin: 0 165px 0 
+0;\n}\n\n.u-dialog-section-12 .u-products-1 {\n  margin-top: 30px;\n  
+margin-bottom: 0;\n}\n\n.u-dialog-section-12 .u-repeater-1 {\n  
+grid-template-columns: 100%;\n  min-height: 206px;\n  grid-gap: 
+10px;\n}\n\n.u-dialog-section-12 .u-container-layout-2 {\n  padding: 0 0 
+30px;\n}\n\n.u-dialog-section-12 .u-text-2 {\n  background-image: none;\n  
+margin: 0;\n}\n\n.u-dialog-section-12 .u-text-3 {\n  font-size: 0.875rem;\n  
+margin: 20px 0 0;\n}\n\n.u-dialog-section-12 .u-product-quantity-1 {\n  width: 
+125px;\n  margin: 30px auto 0 0;\n}\n\n.u-dialog-section-12 .u-product-price-1 
+{\n  margin: -34px 0 0 auto;\n}\n\n.u-dialog-section-12 .u-payment-services-1 
+{\n  min-height: 250px;\n  min-width: 50px;\n  margin: 0;\n}\n\n.u-dialog-s"},{
+"tag":"STYLE","id":"","class":"","text":".u-disable-duration * 
+{transition-duration: 0s !important;}","html":"<style>.u-disable-duration * 
+{transition-duration: 0s !important;}</style>"},{"tag":"SCRIPT","id":"","class"
+:"","text":"","html":"<script src=\"https://www.google.com/recaptcha/api.js?ren
+der=6LetPRgiAAAAAGX121nVdkYGTN-RfCXh4wAlbDFh\" async=\"\"></script>"},{"tag":"D
+IV","id":"","class":"","text":"","html":"<div><div class=\"grecaptcha-badge\" 
+data-style=\"bottomright\" style=\"width: 256px; height: 60px; display: block; 
+transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; 
+box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;\"><div 
+class=\"grecaptcha-logo\"><iframe title=\"reCAPTCHA\" width=\"256\" 
+height=\"60\" role=\"presentation\" name=\"a-d0n7csmw0bv1\" frameborder=\"0\" 
+scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin 
+allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox 
+allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptch
+a/api2/anchor?ar=1&amp;k=6LetPRgiAAAAAGX121nVdkYGTN-RfCXh4wAlbDFh&amp;co=aHR0cH
+M6Ly93ZWJzaXRlMzI1NjY4Ny5uaWNlcGFnZS5pbzo0NDM.&amp;hl=en&amp;v=ne1iDVwClkE7nKD3
+uA9Vqsvl&amp;size=invisible&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=ca5
+v9d9r0poy\"></iframe></div><div class=\"grecaptcha-error\"></div><textarea 
+id=\"g-recaptcha-response-100000\" name=\"g-recaptcha-response\" 
+class=\"g-recaptcha-r"}]
+  react_assignment\breads_bakery\snapshot-6.txt:39:                  - generic 
+[ref=f1e11]: Pages ⌄
+  react_assignment\breads_bakery\snapshot-6.txt:40:                - listitem 
+[ref=f1e12]:
+> react_assignment\breads_bakery\snapshot-6.txt:41:                  - link 
+"Our Bread" [ref=f1e13] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-6.txt:42:                    - /url: 
+/Our-Bread.html
+  react_assignment\breads_bakery\snapshot-6.txt:43:                - listitem 
+[ref=f1e14]:
+  react_assignment\breads_bakery\snapshot-6.txt:53:              - generic 
+[ref=f1e24]: "0"
+  react_assignment\breads_bakery\snapshot-6.txt:54:        - generic 
+[ref=f1e30]:
+> react_assignment\breads_bakery\snapshot-6.txt:55:          - heading "fresh 
+bread & baked goods" [level=6] [ref=f1e31]: fresh bread & baked goods
+> react_assignment\breads_bakery\snapshot-6.txt:56:          - heading "Baked 
+fresh daily" [level=2] [ref=f1e32]: Baked fresh daily
+> react_assignment\breads_bakery\snapshot-6.txt:57:          - heading "254 W 
+27ST ST, NEW YORK, NY 10011" [level=6] [ref=f1e33]: 254 W 27ST ST, NEW YORK, 
+NY 10011
+  react_assignment\breads_bakery\snapshot-6.txt:58:          - heading "(212) 
+123-4567" [level=6] [ref=f1e35]: (212) 123-4567
+  react_assignment\breads_bakery\snapshot-6.txt:59:          - paragraph 
+[ref=f1e36]:
+  react_assignment\breads_bakery\snapshot-6.txt:69:        - generic 
+[ref=f1e42]:
+  react_assignment\breads_bakery\snapshot-6.txt:70:          - generic:
+> react_assignment\breads_bakery\snapshot-6.txt:71:            - heading "We 
+bake fresh, handmade bread, pastries and cakes every day" [level=2] [ref=f1e43]
+  react_assignment\breads_bakery\snapshot-6.txt:72:            - generic 
+[ref=f1e45]:
+  react_assignment\breads_bakery\snapshot-6.txt:73:              - generic 
+[ref=f1e47]:
+> react_assignment\breads_bakery\snapshot-6.txt:74:                - heading 
+"Baked Fresh Daily" [level=5] [ref=f1e49]
+> react_assignment\breads_bakery\snapshot-6.txt:75:                - paragraph 
+[ref=f1e50]: Our bread is baked fresh daily, contains no preservatives and is 
+very high in quality. It is also especially nice and soft
+  react_assignment\breads_bakery\snapshot-6.txt:76:              - generic 
+[ref=f1e52]:
+> react_assignment\breads_bakery\snapshot-6.txt:77:                - heading 
+"Great Value" [level=5] [ref=f1e54]
+> react_assignment\breads_bakery\snapshot-6.txt:78:                - paragraph 
+[ref=f1e55]: With the most competitive prices on the market we are able to 
+deliver great value without compromising on taste
+  react_assignment\breads_bakery\snapshot-6.txt:79:              - generic 
+[ref=f1e57]:
+> react_assignment\breads_bakery\snapshot-6.txt:80:                - heading 
+"Institutions" [level=5] [ref=f1e59]
+> react_assignment\breads_bakery\snapshot-6.txt:81:                - paragraph 
+[ref=f1e60]: We serve a wide range of institutions including universities, 
+airlines, hotels and schools. Order daily for tomorrow
+  react_assignment\breads_bakery\snapshot-6.txt:82:              - generic 
+[ref=f1e62]:
+> react_assignment\breads_bakery\snapshot-6.txt:83:                - heading 
+"Delivery To Your Door" [level=5] [ref=f1e64]
+  react_assignment\breads_bakery\snapshot-6.txt:84:                - paragraph 
+[ref=f1e65]: Sample text. Click to select the text box. Click again or double 
+click to start editing the text.
+  react_assignment\breads_bakery\snapshot-6.txt:85:              - generic 
+[ref=f1e67]:
+> react_assignment\breads_bakery\snapshot-6.txt:86:                - heading 
+"No Order Too Large" [level=5] [ref=f1e69]
+  react_assignment\breads_bakery\snapshot-6.txt:87:                - paragraph 
+[ref=f1e70]: Sample text. Click to select the text box. Click again or double 
+click to start editing the text.
+  react_assignment\breads_bakery\snapshot-6.txt:88:        - generic 
+[ref=f1e71]:
+> react_assignment\breads_bakery\snapshot-6.txt:89:          - heading "Our 
+Bread" [level=2] [ref=f1e72]
+  react_assignment\breads_bakery\snapshot-6.txt:90:          - paragraph 
+[ref=f1e73]: A values-driven bakery
+  react_assignment\breads_bakery\snapshot-6.txt:91:          - generic 
+[ref=f1e75]:
+  react_assignment\breads_bakery\snapshot-6.txt:99:              - /url: 
+https://www.freepik.com
+  react_assignment\breads_bakery\snapshot-6.txt:100:        - generic 
+[ref=f1e99]:
+> react_assignment\breads_bakery\snapshot-6.txt:101:          - heading "About 
+Bakery" [level=2] [ref=f1e100]
+  react_assignment\breads_bakery\snapshot-6.txt:102:          - paragraph 
+[ref=f1e101]: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+commodo consequat.
+  react_assignment\breads_bakery\snapshot-6.txt:103:          - generic 
+[ref=f1e103]:
+  react_assignment\breads_bakery\snapshot-6.txt:134:        - generic 
+[ref=f1e147]:
+  react_assignment\breads_bakery\snapshot-6.txt:135:          - heading "Fresh 
+baked breads" [level=6] [ref=f1e148]
+> react_assignment\breads_bakery\snapshot-6.txt:136:          - heading "Baked 
+fresh daily by bakers with passion" [level=3] [ref=f1e149]
+  react_assignment\breads_bakery\snapshot-6.txt:137:          - paragraph 
+[ref=f1e150]: Article evident arrived express highest men did boy. Mistress 
+sensible entirely am so. Quick can manor smart money hopes worth too. Comfort 
+produce husband boy her had hearing. Law others theirs passed but wishes. You 
+day real less till dear read.
+  react_assignment\breads_bakery\snapshot-6.txt:138:          - list 
+[ref=f1e151]:
+  react_assignment\breads_bakery\snapshot-6.txt:151:        - generic 
+[ref=f1e161]:
+  react_assignment\breads_bakery\snapshot-6.txt:152:          - generic:
+> react_assignment\breads_bakery\snapshot-6.txt:153:            - heading 
+"Brownies, Pastries, etc" [level=2] [ref=f1e162]
+  react_assignment\breads_bakery\snapshot-6.txt:154:            - generic 
+[ref=f1e164]:
+  react_assignment\breads_bakery\snapshot-6.txt:155:              - generic 
+[ref=f1e166]:
+> react_assignment\breads_bakery\snapshot-6.txt:156:                - heading 
+"croissant" [level=4] [ref=f1e168]
+  react_assignment\breads_bakery\snapshot-6.txt:157:                - 
+paragraph [ref=f1e169]: Sample text. Click to select the text box. Click again 
+or double click to start editing the text.
+  react_assignment\breads_bakery\snapshot-6.txt:158:                - link 
+"more" [ref=f1e170] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-6.txt:159:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-6.txt:160:              - generic 
+[ref=f1e172]:
+> react_assignment\breads_bakery\snapshot-6.txt:161:                - heading 
+"Brownies" [level=4] [ref=f1e174]
+  react_assignment\breads_bakery\snapshot-6.txt:162:                - 
+paragraph [ref=f1e175]: Sample text. Click to select the text box. Click again 
+or double click to start editing the text.
+  react_assignment\breads_bakery\snapshot-6.txt:163:                - link 
+"more" [ref=f1e176] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-6.txt:164:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-6.txt:165:              - generic 
+[ref=f1e178]:
+> react_assignment\breads_bakery\snapshot-6.txt:166:                - heading 
+"cinnamon bun" [level=4] [ref=f1e180]
+  react_assignment\breads_bakery\snapshot-6.txt:167:                - 
+paragraph [ref=f1e181]:
+  react_assignment\breads_bakery\snapshot-6.txt:168:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-6.txt:173:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-6.txt:174:              - generic 
+[ref=f1e185]:
+> react_assignment\breads_bakery\snapshot-6.txt:175:                - heading 
+"turkish bagels" [level=4] [ref=f1e187]
+  react_assignment\breads_bakery\snapshot-6.txt:176:                - 
+paragraph [ref=f1e188]:
+  react_assignment\breads_bakery\snapshot-6.txt:177:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-6.txt:182:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-6.txt:183:              - generic 
+[ref=f1e192]:
+> react_assignment\breads_bakery\snapshot-6.txt:184:                - heading 
+"Doughnuts" [level=4] [ref=f1e194]
+  react_assignment\breads_bakery\snapshot-6.txt:185:                - 
+paragraph [ref=f1e195]:
+  react_assignment\breads_bakery\snapshot-6.txt:186:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-6.txt:191:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-6.txt:192:              - generic 
+[ref=f1e199]:
+> react_assignment\breads_bakery\snapshot-6.txt:193:                - heading 
+"Tarts" [level=4] [ref=f1e201]
+  react_assignment\breads_bakery\snapshot-6.txt:194:                - 
+paragraph [ref=f1e202]:
+  react_assignment\breads_bakery\snapshot-6.txt:195:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-6.txt:200:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-6.txt:201:              - generic 
+[ref=f1e206]:
+> react_assignment\breads_bakery\snapshot-6.txt:202:                - heading 
+"shortbread" [level=4] [ref=f1e208]
+  react_assignment\breads_bakery\snapshot-6.txt:203:                - 
+paragraph [ref=f1e209]:
+  react_assignment\breads_bakery\snapshot-6.txt:204:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-6.txt:209:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-6.txt:210:              - generic 
+[ref=f1e213]:
+> react_assignment\breads_bakery\snapshot-6.txt:211:                - heading 
+"Cookies" [level=4] [ref=f1e215]
+  react_assignment\breads_bakery\snapshot-6.txt:212:                - 
+paragraph [ref=f1e216]:
+  react_assignment\breads_bakery\snapshot-6.txt:213:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-6.txt:223:        - generic 
+[ref=f1e221]:
+  react_assignment\breads_bakery\snapshot-6.txt:224:          - generic:
+> react_assignment\breads_bakery\snapshot-6.txt:225:            - heading 
+"Testimonials" [level=2] [ref=f1e222]
+  react_assignment\breads_bakery\snapshot-6.txt:226:            - generic 
+[ref=f1e224]:
+  react_assignment\breads_bakery\snapshot-6.txt:227:              - generic 
+[ref=f1e226]:
+  react_assignment\breads_bakery\snapshot-6.txt:251:            - generic 
+[ref=f1e265]:
+  react_assignment\breads_bakery\snapshot-6.txt:252:              - img 
+[ref=f1e266]
+> react_assignment\breads_bakery\snapshot-6.txt:253:              - heading 
+"Cookies" [level=3] [ref=f1e267]
+  react_assignment\breads_bakery\snapshot-6.txt:254:              - paragraph 
+[ref=f1e268]: Sample text. Click to select the text box. Click again or double 
+click to start editing the text.
+  react_assignment\breads_bakery\snapshot-6.txt:255:            - generic 
+[ref=f1e270]:
+  react_assignment\breads_bakery\snapshot-6.txt:259:          - generic 
+[ref=f1e276]:
+  react_assignment\breads_bakery\snapshot-6.txt:260:            - generic 
+[ref=f1e278]:
+> react_assignment\breads_bakery\snapshot-6.txt:261:              - heading 
+"Sign up for the newsletter" [level=4] [ref=f1e279]
+  react_assignment\breads_bakery\snapshot-6.txt:262:              - paragraph 
+[ref=f1e280]: Want to be the first to read our news? Subscribe to the 
+newsletter to keep abreast of all events.
+  react_assignment\breads_bakery\snapshot-6.txt:263:              - generic 
+[ref=f1e282]:
+  react_assignment\breads_bakery\snapshot-6.txt:293:                    - img
+  react_assignment\breads_bakery\snapshot-6.txt:294:            - generic 
+[ref=f1e326]:
+> react_assignment\breads_bakery\snapshot-6.txt:295:              - heading 
+"Hours & Location" [level=3] [ref=f1e327]
+  react_assignment\breads_bakery\snapshot-6.txt:296:              - heading 
+"14 E 12th St, New York, NY 10007 (123) 456-2253" [level=5] [ref=f1e328]:
+  react_assignment\breads_bakery\snapshot-6.txt:297:                - link "14 
+E 12th St, New York, NY 10007 (123) 456-2253" [ref=f1e329] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-6.txt:324:                    - 
+/url: "#"
+  react_assignment\breads_bakery\snapshot-6.txt:325:                    - 
+text: Visit Us
+> react_assignment\breads_bakery\snapshot-6.txt:326:                  - link 
+"Testimonials" [ref=f1e347] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-6.txt:327:                    - 
+/url: "#"
+  react_assignment\breads_bakery\snapshot-6.txt:328:              - generic 
+[ref=f1e349]:
+  react_assignment\breads_bakery\snapshot-6.txt:385:  - generic [ref=e16]:
+  react_assignment\breads_bakery\snapshot-6.txt:386:    - paragraph [ref=e18]:
+> react_assignment\breads_bakery\snapshot-6.txt:387:      - text: By using 
+this website, you automatically accept that we use cookies. Learn more about 
+our
+> react_assignment\breads_bakery\snapshot-6.txt:388:      - link "privacy and 
+cookies policy" [ref=e19] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-6.txt:389:        - /url: 
+https://nicepage.com/privacy
+  react_assignment\breads_bakery\snapshot-6.txt:390:      - text: .
+  react_assignment\breads_bakery\snapshot-7.txt:20:             
+u-valign-middle-md u-valign-middle-xxl 
+  react_assignment\breads_bakery\snapshot-7.txt:21:             
+u-sheet-1","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+> react_assignment\breads_bakery\snapshot-7.txt:22:             
+Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          \n      
+  react_assignment\breads_bakery\snapshot-7.txt:23:                 \n         
+   \n        
+  react_assignment\breads_bakery\snapshot-7.txt:24:             
+"},{"tag":"A","id":"","class":"u-image u-logo 
+  react_assignment\breads_bakery\snapshot-7.txt:28:             u-menu 
+u-menu-dropdown u-offcanvas 
+  react_assignment\breads_bakery\snapshot-7.txt:29:             
+u-menu-1","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+> react_assignment\breads_bakery\snapshot-7.txt:30:             
+Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          \n      
+  react_assignment\breads_bakery\snapshot-7.txt:31:                 \n         
+   \n        "},{"tag":"DIV","id":"","class":"menu-
+  react_assignment\breads_bakery\snapshot-7.txt:32:             
+collapse","text":""},{"tag":"A","id":"","class":"u-button-style 
+  react_assignment\breads_bakery\snapshot-7.txt:45:             
+Bread\nContact"},{"tag":"UL","id":"","class":"u-nav u-spacing-20 
+  react_assignment\breads_bakery\snapshot-7.txt:46:             u-unstyled 
+u-nav-1","text":"Bakery\nPagesAbout 
+> react_assignment\breads_bakery\snapshot-7.txt:47:             
+us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur Bread\nContact"}
+  react_assignment\breads_bakery\snapshot-7.txt:48:             
+,{"tag":"LI","id":"","class":"u-nav-item","text":"Bakery"},{"tag":
+  react_assignment\breads_bakery\snapshot-7.txt:49:             
+"A","id":"","class":"u-border-2 u-border-active-palette-1-base 
+  react_assignment\breads_bakery\snapshot-7.txt:81:             
+u-border-no-left u-border-no-right u-border-no-top u-button-style 
+  react_assignment\breads_bakery\snapshot-7.txt:82:             u-nav-link 
+u-text-active-palette-1-base 
+> react_assignment\breads_bakery\snapshot-7.txt:83:             
+u-text-hover-palette-1-base","text":"Our Bread"},{"tag":"LI","id":
+  react_assignment\breads_bakery\snapshot-7.txt:84:             
+"","class":"u-nav-item","text":"Contact"},{"tag":"A","id":"","clas
+  react_assignment\breads_bakery\snapshot-7.txt:85:             s":"u-border-2 
+u-border-active-palette-1-base 
+  react_assignment\breads_bakery\snapshot-7.txt:94:             
+u-container-style u-inner-container-layout u-opacity u-opacity-95 
+  react_assignment\breads_bakery\snapshot-7.txt:95:             
+u-sidenav","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+> react_assignment\breads_bakery\snapshot-7.txt:96:             
+Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n                 
+> react_assignment\breads_bakery\snapshot-7.txt:97:             Book an 
+appointment"},{"tag":"DIV","id":"","class":"u-inner-contai
+  react_assignment\breads_bakery\snapshot-7.txt:98:             ner-layout 
+u-sidenav-overflow","text":"Bakery\nPagesAbout 
+  react_assignment\breads_bakery\snapshot-7.txt:99:             
+us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+> react_assignment\breads_bakery\snapshot-7.txt:100:             
+Bread\nContact\n\n                 Book an appointment"},{"tag":"D
+  react_assignment\breads_bakery\snapshot-7.txt:101:             
+IV","id":"","class":"u-menu-close","text":""},{"tag":"UL","id":"",
+  react_assignment\breads_bakery\snapshot-7.txt:102:             
+"class":"u-align-center u-nav u-popupmenu-items u-unstyled 
+  react_assignment\breads_bakery\snapshot-7.txt:103:             
+u-nav-3","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+> react_assignment\breads_bakery\snapshot-7.txt:104:             
+Team\nWorkshops Page\n\n\nOur Bread\nContact"},{"tag":"LI","id":""
+  react_assignment\breads_bakery\snapshot-7.txt:105:             
+,"class":"u-nav-item","text":"Bakery"},{"tag":"A","id":"","class":
+  react_assignment\breads_bakery\snapshot-7.txt:106:             
+"u-button-style u-nav-link","text":"Bakery"},{"tag":"LI","id":"","
+  react_assignment\breads_bakery\snapshot-7.txt:125:             
+Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"Our 
+  react_assignment\breads_bakery\snapshot-7.txt:126:             
+Bread"},{"tag":"A","id":"","class":"u-button-style 
+> react_assignment\breads_bakery\snapshot-7.txt:127:             
+u-nav-link","text":"Our Bread"},{"tag":"LI","id":"","class":"u-nav
+  react_assignment\breads_bakery\snapshot-7.txt:128:             
+-item","text":"Contact"},{"tag":"A","id":"","class":"u-button-styl
+  react_assignment\breads_bakery\snapshot-7.txt:129:             e 
+u-nav-link","text":"Contact"},{"tag":"A","id":"","class":"u-alig
+  react_assignment\breads_bakery\snapshot-7.txt:156:Path       : 
+C:\Users\nadak\Desktop\React\holiday_assignment\react_assignment\b
+  react_assignment\breads_bakery\snapshot-7.txt:157:             
+reads_bakery\nicepage-snapshot.txt
+> react_assignment\breads_bakery\snapshot-7.txt:158:Pattern    : Baked fresh 
+daily|fresh bread & baked goods|Our Bread|About 
+> react_assignment\breads_bakery\snapshot-7.txt:159:             
+Bakery|Testimonials|Hours & Location|Sign up for the 
+> react_assignment\breads_bakery\snapshot-7.txt:160:             
+newsletter|Book an appointment|Delivery To Your Door|Great 
+> react_assignment\breads_bakery\snapshot-7.txt:161:             
+Value|Institutions|No Order Too Large
+  react_assignment\breads_bakery\snapshot-7.txt:162:Context    : 
+Microsoft.PowerShell.Commands.MatchInfoContext
+  react_assignment\breads_bakery\snapshot-7.txt:163:Matches    : {0}
+  react_assignment\breads_bakery\snapshot-8.txt:38:                  - generic 
+[ref=f1e11]: Pages ⌄
+  react_assignment\breads_bakery\snapshot-8.txt:39:                - listitem 
+[ref=f1e12]:
+> react_assignment\breads_bakery\snapshot-8.txt:40:                  - link 
+"Our Bread" [ref=f1e13] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-8.txt:41:                    - /url: 
+/Our-Bread.html
+  react_assignment\breads_bakery\snapshot-8.txt:42:                - listitem 
+[ref=f1e14]:
+  react_assignment\breads_bakery\snapshot-8.txt:52:              - generic 
+[ref=f1e24]: "0"
+  react_assignment\breads_bakery\snapshot-8.txt:53:        - generic 
+[ref=f1e30]:
+> react_assignment\breads_bakery\snapshot-8.txt:54:          - heading "fresh 
+bread & baked goods" [level=6] [ref=f1e31]: fresh bread & baked goods
+> react_assignment\breads_bakery\snapshot-8.txt:55:          - heading "Baked 
+fresh daily" [level=2] [ref=f1e32]: Baked fresh daily
+> react_assignment\breads_bakery\snapshot-8.txt:56:          - heading "254 W 
+27ST ST, NEW YORK, NY 10011" [level=6] [ref=f1e33]: 254 W 27ST ST, NEW YORK, 
+NY 10011
+  react_assignment\breads_bakery\snapshot-8.txt:57:          - heading "(212) 
+123-4567" [level=6] [ref=f1e35]: (212) 123-4567
+  react_assignment\breads_bakery\snapshot-8.txt:58:          - paragraph 
+[ref=f1e37]:
+  react_assignment\breads_bakery\snapshot-8.txt:68:        - generic 
+[ref=f1e43]:
+  react_assignment\breads_bakery\snapshot-8.txt:69:          - generic:
+> react_assignment\breads_bakery\snapshot-8.txt:70:            - heading "We 
+bake fresh, handmade bread, pastries and cakes every day" [level=2] [ref=f1e44]
+  react_assignment\breads_bakery\snapshot-8.txt:71:            - generic 
+[ref=f1e46]:
+  react_assignment\breads_bakery\snapshot-8.txt:72:              - generic 
+[ref=f1e48]:
+> react_assignment\breads_bakery\snapshot-8.txt:73:                - heading 
+"Baked Fresh Daily" [level=5] [ref=f1e50]
+> react_assignment\breads_bakery\snapshot-8.txt:74:                - paragraph 
+[ref=f1e51]: Our bread is baked fresh daily, contains no preservatives and is 
+very high in quality. It is also especially nice and soft
+  react_assignment\breads_bakery\snapshot-8.txt:75:              - generic 
+[ref=f1e53]:
+> react_assignment\breads_bakery\snapshot-8.txt:76:                - heading 
+"Great Value" [level=5] [ref=f1e55]
+> react_assignment\breads_bakery\snapshot-8.txt:77:                - paragraph 
+[ref=f1e56]: With the most competitive prices on the market we are able to 
+deliver great value without compromising on taste
+  react_assignment\breads_bakery\snapshot-8.txt:78:              - generic 
+[ref=f1e58]:
+> react_assignment\breads_bakery\snapshot-8.txt:79:                - heading 
+"Institutions" [level=5] [ref=f1e60]
+> react_assignment\breads_bakery\snapshot-8.txt:80:                - paragraph 
+[ref=f1e61]: We serve a wide range of institutions including universities, 
+airlines, hotels and schools. Order daily for tomorrow
+  react_assignment\breads_bakery\snapshot-8.txt:81:              - generic 
+[ref=f1e63]:
+> react_assignment\breads_bakery\snapshot-8.txt:82:                - heading 
+"Delivery To Your Door" [level=5] [ref=f1e65]
+  react_assignment\breads_bakery\snapshot-8.txt:83:                - paragraph 
+[ref=f1e66]: Sample text. Click to select the text box. Click again or double 
+click to start editing the text.
+  react_assignment\breads_bakery\snapshot-8.txt:84:              - generic 
+[ref=f1e68]:
+> react_assignment\breads_bakery\snapshot-8.txt:85:                - heading 
+"No Order Too Large" [level=5] [ref=f1e70]
+  react_assignment\breads_bakery\snapshot-8.txt:86:                - paragraph 
+[ref=f1e71]: Sample text. Click to select the text box. Click again or double 
+click to start editing the text.
+  react_assignment\breads_bakery\snapshot-8.txt:87:        - generic 
+[ref=f1e72]:
+> react_assignment\breads_bakery\snapshot-8.txt:88:          - heading "Our 
+Bread" [level=2] [ref=f1e73]
+  react_assignment\breads_bakery\snapshot-8.txt:89:          - paragraph 
+[ref=f1e74]: A values-driven bakery
+  react_assignment\breads_bakery\snapshot-8.txt:90:          - generic 
+[ref=f1e76]:
+  react_assignment\breads_bakery\snapshot-8.txt:98:              - /url: 
+https://www.freepik.com
+  react_assignment\breads_bakery\snapshot-8.txt:99:        - generic 
+[ref=f1e100]:
+> react_assignment\breads_bakery\snapshot-8.txt:100:          - heading "About 
+Bakery" [level=2] [ref=f1e101]
+  react_assignment\breads_bakery\snapshot-8.txt:101:          - paragraph 
+[ref=f1e102]: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+commodo consequat.
+  react_assignment\breads_bakery\snapshot-8.txt:102:          - generic 
+[ref=f1e104]:
+  react_assignment\breads_bakery\snapshot-8.txt:133:        - generic 
+[ref=f1e148]:
+  react_assignment\breads_bakery\snapshot-8.txt:134:          - heading "Fresh 
+baked breads" [level=6] [ref=f1e149]
+> react_assignment\breads_bakery\snapshot-8.txt:135:          - heading "Baked 
+fresh daily by bakers with passion" [level=3] [ref=f1e150]
+  react_assignment\breads_bakery\snapshot-8.txt:136:          - paragraph 
+[ref=f1e151]: Article evident arrived express highest men did boy. Mistress 
+sensible entirely am so. Quick can manor smart money hopes worth too. Comfort 
+produce husband boy her had hearing. Law others theirs passed but wishes. You 
+day real less till dear read.
+  react_assignment\breads_bakery\snapshot-8.txt:137:          - list 
+[ref=f1e152]:
+  react_assignment\breads_bakery\snapshot-8.txt:150:        - generic 
+[ref=f1e162]:
+  react_assignment\breads_bakery\snapshot-8.txt:151:          - generic:
+> react_assignment\breads_bakery\snapshot-8.txt:152:            - heading 
+"Brownies, Pastries, etc" [level=2] [ref=f1e163]
+  react_assignment\breads_bakery\snapshot-8.txt:153:            - generic 
+[ref=f1e165]:
+  react_assignment\breads_bakery\snapshot-8.txt:154:              - generic 
+[ref=f1e167]:
+> react_assignment\breads_bakery\snapshot-8.txt:155:                - heading 
+"croissant" [level=4] [ref=f1e169]
+  react_assignment\breads_bakery\snapshot-8.txt:156:                - 
+paragraph [ref=f1e170]: Sample text. Click to select the text box. Click again 
+or double click to start editing the text.
+  react_assignment\breads_bakery\snapshot-8.txt:157:                - link 
+"more" [ref=f1e171] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-8.txt:158:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-8.txt:159:              - generic 
+[ref=f1e173]:
+> react_assignment\breads_bakery\snapshot-8.txt:160:                - heading 
+"Brownies" [level=4] [ref=f1e175]
+  react_assignment\breads_bakery\snapshot-8.txt:161:                - 
+paragraph [ref=f1e176]: Sample text. Click to select the text box. Click again 
+or double click to start editing the text.
+  react_assignment\breads_bakery\snapshot-8.txt:162:                - link 
+"more" [ref=f1e177] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-8.txt:163:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-8.txt:164:              - generic 
+[ref=f1e179]:
+> react_assignment\breads_bakery\snapshot-8.txt:165:                - heading 
+"cinnamon bun" [level=4] [ref=f1e181]
+  react_assignment\breads_bakery\snapshot-8.txt:166:                - 
+paragraph [ref=f1e182]:
+  react_assignment\breads_bakery\snapshot-8.txt:167:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-8.txt:172:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-8.txt:173:              - generic 
+[ref=f1e186]:
+> react_assignment\breads_bakery\snapshot-8.txt:174:                - heading 
+"turkish bagels" [level=4] [ref=f1e188]
+  react_assignment\breads_bakery\snapshot-8.txt:175:                - 
+paragraph [ref=f1e189]:
+  react_assignment\breads_bakery\snapshot-8.txt:176:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-8.txt:181:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-8.txt:182:              - generic 
+[ref=f1e193]:
+> react_assignment\breads_bakery\snapshot-8.txt:183:                - heading 
+"Doughnuts" [level=4] [ref=f1e195]
+  react_assignment\breads_bakery\snapshot-8.txt:184:                - 
+paragraph [ref=f1e196]:
+  react_assignment\breads_bakery\snapshot-8.txt:185:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-8.txt:190:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-8.txt:191:              - generic 
+[ref=f1e200]:
+> react_assignment\breads_bakery\snapshot-8.txt:192:                - heading 
+"Tarts" [level=4] [ref=f1e202]
+  react_assignment\breads_bakery\snapshot-8.txt:193:                - 
+paragraph [ref=f1e203]:
+  react_assignment\breads_bakery\snapshot-8.txt:194:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-8.txt:199:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-8.txt:200:              - generic 
+[ref=f1e207]:
+> react_assignment\breads_bakery\snapshot-8.txt:201:                - heading 
+"shortbread" [level=4] [ref=f1e209]
+  react_assignment\breads_bakery\snapshot-8.txt:202:                - 
+paragraph [ref=f1e210]:
+  react_assignment\breads_bakery\snapshot-8.txt:203:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-8.txt:208:                  - /url: 
+"#"
+  react_assignment\breads_bakery\snapshot-8.txt:209:              - generic 
+[ref=f1e214]:
+> react_assignment\breads_bakery\snapshot-8.txt:210:                - heading 
+"Cookies" [level=4] [ref=f1e216]
+  react_assignment\breads_bakery\snapshot-8.txt:211:                - 
+paragraph [ref=f1e217]:
+  react_assignment\breads_bakery\snapshot-8.txt:212:                  - text: 
+Sample text. Click to select the text box.
+  react_assignment\breads_bakery\snapshot-8.txt:222:        - generic 
+[ref=f1e222]:
+  react_assignment\breads_bakery\snapshot-8.txt:223:          - generic:
+> react_assignment\breads_bakery\snapshot-8.txt:224:            - heading 
+"Testimonials" [level=2] [ref=f1e223]
+  react_assignment\breads_bakery\snapshot-8.txt:225:            - generic 
+[ref=f1e225]:
+  react_assignment\breads_bakery\snapshot-8.txt:226:              - generic 
+[ref=f1e227]:
+  react_assignment\breads_bakery\snapshot-8.txt:250:            - generic 
+[ref=f1e266]:
+  react_assignment\breads_bakery\snapshot-8.txt:251:              - img 
+[ref=f1e267]
+> react_assignment\breads_bakery\snapshot-8.txt:252:              - heading 
+"Cookies" [level=3] [ref=f1e268]
+  react_assignment\breads_bakery\snapshot-8.txt:253:              - paragraph 
+[ref=f1e269]: Sample text. Click to select the text box. Click again or double 
+click to start editing the text.
+  react_assignment\breads_bakery\snapshot-8.txt:254:            - generic 
+[ref=f1e271]:
+  react_assignment\breads_bakery\snapshot-8.txt:258:          - generic 
+[ref=f1e277]:
+  react_assignment\breads_bakery\snapshot-8.txt:259:            - generic 
+[ref=f1e279]:
+> react_assignment\breads_bakery\snapshot-8.txt:260:              - heading 
+"Sign up for the newsletter" [level=4] [ref=f1e280]
+  react_assignment\breads_bakery\snapshot-8.txt:261:              - paragraph 
+[ref=f1e281]: Want to be the first to read our news? Subscribe to the 
+newsletter to keep abreast of all events.
+  react_assignment\breads_bakery\snapshot-8.txt:262:              - generic 
+[ref=f1e283]:
+  react_assignment\breads_bakery\snapshot-8.txt:292:                    - img
+  react_assignment\breads_bakery\snapshot-8.txt:293:            - generic 
+[ref=f1e327]:
+> react_assignment\breads_bakery\snapshot-8.txt:294:              - heading 
+"Hours & Location" [level=3] [ref=f1e328]
+  react_assignment\breads_bakery\snapshot-8.txt:295:              - heading 
+"14 E 12th St, New York, NY 10007 (123) 456-2253" [level=5] [ref=f1e329]:
+  react_assignment\breads_bakery\snapshot-8.txt:296:                - link "14 
+E 12th St, New York, NY 10007 (123) 456-2253" [ref=f1e330] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-8.txt:323:                    - 
+/url: "#"
+  react_assignment\breads_bakery\snapshot-8.txt:324:                    - 
+text: Visit Us
+> react_assignment\breads_bakery\snapshot-8.txt:325:                  - link 
+"Testimonials" [ref=f1e348] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-8.txt:326:                    - 
+/url: "#"
+  react_assignment\breads_bakery\snapshot-8.txt:327:              - generic 
+[ref=f1e350]:
+  react_assignment\breads_bakery\snapshot-8.txt:384:  - generic [ref=e16]:
+  react_assignment\breads_bakery\snapshot-8.txt:385:    - paragraph [ref=e18]:
+> react_assignment\breads_bakery\snapshot-8.txt:386:      - text: By using 
+this website, you automatically accept that we use cookies. Learn more about 
+our
+> react_assignment\breads_bakery\snapshot-8.txt:387:      - link "privacy and 
+cookies policy" [ref=e19] [cursor=pointer]:
+  react_assignment\breads_bakery\snapshot-8.txt:388:        - /url: 
+https://nicepage.com/privacy
+  react_assignment\breads_bakery\snapshot-8.txt:389:      - text: .

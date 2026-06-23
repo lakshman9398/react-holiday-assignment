@@ -1,0 +1,163 @@
+
+
+IgnoreCase : True
+LineNumber : 1
+Line       : Result: [{"tag":"HTML","id":"","class":"u-responsive-md","text":"L
+             anding\n    \n\n\n    \n    \n    \n    \n    \n    \n    \n    
+             \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    
+             {\n\t\t\"@conte"},{"tag":"SCRIPT","id":"","class":"u-script","text
+             ":""},{"tag":"SCRIPT","id":"","class":"u-script","text":""},{"tag"
+             :"LINK","id":"u-theme-google-font","class":"","text":""},{"tag":"L
+             INK","id":"u-page-google-font","class":"","text":""},{"tag":"BODY"
+             ,"id":"","class":"u-body u-xl-mode","text":"Bakery\nPagesAbout 
+             us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+             Bread\nContact\n\n          \n          \n            \n        
+             "},{"tag":"HEADER","id":"sec-f27d","class":"u-clearfix 
+             u-container-align-center-md u-header","text":"Bakery\nPagesAbout 
+             us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+             Bread\nContact\n\n          \n          \n            \n        
+             "},{"tag":"DIV","id":"","class":"u-clearfix u-sheet 
+             u-valign-middle-md u-valign-middle-xxl 
+             u-sheet-1","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+             Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          \n      
+                 \n            \n        
+             "},{"tag":"A","id":"","class":"u-image u-logo 
+             u-image-1","text":""},{"tag":"IMG","id":"","class":"u-logo-image u
+             -logo-image-1","text":""},{"tag":"NAV","id":"","class":"u-align-ce
+             nter-md u-align-center-sm u-align-center-xs u-dropdown-icon 
+             u-menu u-menu-dropdown u-offcanvas 
+             u-menu-1","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+             Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          \n      
+                 \n            \n        "},{"tag":"DIV","id":"","class":"menu-
+             collapse","text":""},{"tag":"A","id":"","class":"u-button-style 
+             u-custom-active-border-color u-custom-active-color 
+             u-custom-border u-custom-border-color u-custom-borders 
+             u-custom-color u-custom-hover-border-color u-custom-hover-color 
+             u-custom-left-right-menu-spacing u-custom-padding-bottom 
+             u-custom-text-active-color u-custom-text-color 
+             u-custom-text-decoration u-custom-text-hover-color 
+             u-custom-top-bottom-menu-spacing u-hamburger-link u-nav-link 
+             u-text-active-palette-1-base u-text-hover-palette-1-base","text":"
+             "},{"tag":"svg","id":"","class":{},"text":""},{"tag":"svg","id":"m
+             enu-hamburger","class":{},"text":""},{"tag":"DIV","id":"","class":
+             "u-custom-menu u-nav-container","text":"Bakery\nPagesAbout 
+             us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+             Bread\nContact"},{"tag":"UL","id":"","class":"u-nav u-spacing-20 
+             u-unstyled u-nav-1","text":"Bakery\nPagesAbout 
+             us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur Bread\nContact"}
+             ,{"tag":"LI","id":"","class":"u-nav-item","text":"Bakery"},{"tag":
+             "A","id":"","class":"u-border-2 u-border-active-palette-1-base 
+             u-border-hover-palette-1-light-1 u-border-no-left 
+             u-border-no-right u-border-no-top u-button-style u-nav-link 
+             u-text-active-palette-1-base u-text-hover-palette-1-base","text":"
+             Bakery"},{"tag":"LI","id":"","class":"u-nav-item","text":"PagesAbo
+             ut us\nLanding\nBakery Team\nWorkshops 
+             Page"},{"tag":"A","id":"","class":"u-border-2 
+             u-border-active-palette-1-base u-border-hover-palette-1-light-1 
+             u-border-no-left u-border-no-right u-border-no-top u-button-style 
+             u-nav-link u-text-active-palette-1-base 
+             u-text-hover-palette-1-base active","text":"Pages"},{"tag":"DIV","
+             id":"","class":"u-nav-popup","text":"About us\nLanding\nBakery 
+             Team\nWorkshops 
+             Page"},{"tag":"UL","id":"","class":"u-h-spacing-22 u-nav 
+             u-unstyled u-v-spacing-12","text":"About us\nLanding\nBakery 
+             Team\nWorkshops 
+             Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"About 
+             us"},{"tag":"A","id":"","class":"u-active-black u-black 
+             u-button-style u-hover-palette-1-base u-nav-link","text":"About us
+             "},{"tag":"LI","id":"","class":"u-nav-item","text":"Landing"},{"ta
+             g":"A","id":"","class":"u-active-black u-black u-button-style 
+             u-hover-palette-1-base u-nav-link active","text":"Landing"},{"tag"
+             :"LI","id":"","class":"u-nav-item","text":"Bakery 
+             Team"},{"tag":"A","id":"","class":"u-active-black u-black 
+             u-button-style u-hover-palette-1-base u-nav-link","text":"Bakery 
+             Team"},{"tag":"LI","id":"","class":"u-nav-item","text":"Workshops 
+             Page"},{"tag":"A","id":"","class":"u-active-black u-black 
+             u-button-style u-hover-palette-1-base 
+             u-nav-link","text":"Workshops 
+             Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"Our 
+             Bread"},{"tag":"A","id":"","class":"u-border-2 
+             u-border-active-palette-1-base u-border-hover-palette-1-light-1 
+             u-border-no-left u-border-no-right u-border-no-top u-button-style 
+             u-nav-link u-text-active-palette-1-base 
+             u-text-hover-palette-1-base","text":"Our Bread"},{"tag":"LI","id":
+             "","class":"u-nav-item","text":"Contact"},{"tag":"A","id":"","clas
+             s":"u-border-2 u-border-active-palette-1-base 
+             u-border-hover-palette-1-light-1 u-border-no-left 
+             u-border-no-right u-border-no-top u-button-style u-nav-link 
+             u-text-active-palette-1-base u-text-hover-palette-1-base","text":"
+             Contact"},{"tag":"DIV","id":"","class":"u-custom-menu 
+             u-nav-container-collapse","text":"Bakery\nPagesAbout 
+             us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+             Bread\nContact\n\n                 Book an 
+             appointment"},{"tag":"DIV","id":"","class":"u-black 
+             u-container-style u-inner-container-layout u-opacity u-opacity-95 
+             u-sidenav","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+             Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n                 
+             Book an appointment"},{"tag":"DIV","id":"","class":"u-inner-contai
+             ner-layout u-sidenav-overflow","text":"Bakery\nPagesAbout 
+             us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+             Bread\nContact\n\n                 Book an appointment"},{"tag":"D
+             IV","id":"","class":"u-menu-close","text":""},{"tag":"UL","id":"",
+             "class":"u-align-center u-nav u-popupmenu-items u-unstyled 
+             u-nav-3","text":"Bakery\nPagesAbout us\nLanding\nBakery 
+             Team\nWorkshops Page\n\n\nOur Bread\nContact"},{"tag":"LI","id":""
+             ,"class":"u-nav-item","text":"Bakery"},{"tag":"A","id":"","class":
+             "u-button-style u-nav-link","text":"Bakery"},{"tag":"LI","id":"","
+             class":"u-nav-item","text":"PagesAbout us\nLanding\nBakery 
+             Team\nWorkshops Page"},{"tag":"A","id":"","class":"u-button-style 
+             u-nav-link active","text":"Pages"},{"tag":"DIV","id":"","class":"u
+             -nav-popup","text":"About us\nLanding\nBakery Team\nWorkshops 
+             Page"},{"tag":"UL","id":"","class":"u-h-spacing-22 u-nav 
+             u-unstyled u-v-spacing-12","text":"About us\nLanding\nBakery 
+             Team\nWorkshops 
+             Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"About 
+             us"},{"tag":"A","id":"","class":"u-button-style 
+             u-nav-link","text":"About us"},{"tag":"LI","id":"","class":"u-nav-
+             item","text":"Landing"},{"tag":"A","id":"","class":"u-button-style
+              u-nav-link active","text":"Landing"},{"tag":"LI","id":"","class":
+             "u-nav-item","text":"Bakery 
+             Team"},{"tag":"A","id":"","class":"u-button-style 
+             u-nav-link","text":"Bakery 
+             Team"},{"tag":"LI","id":"","class":"u-nav-item","text":"Workshops 
+             Page"},{"tag":"A","id":"","class":"u-button-style 
+             u-nav-link","text":"Workshops 
+             Page"},{"tag":"LI","id":"","class":"u-nav-item","text":"Our 
+             Bread"},{"tag":"A","id":"","class":"u-button-style 
+             u-nav-link","text":"Our Bread"},{"tag":"LI","id":"","class":"u-nav
+             -item","text":"Contact"},{"tag":"A","id":"","class":"u-button-styl
+             e u-nav-link","text":"Contact"},{"tag":"A","id":"","class":"u-alig
+             n-center u-btn u-button-style u-hover-palette-1-dark-1 
+             u-palette-1-base u-text-active-white u-btn-1","text":"Book an 
+             appointment"},{"tag":"DIV","id":"","class":"u-social-icons u-socia
+             l-icons-1","text":""},{"tag":"A","id":"","class":"u-social-url","t
+             ext":""},{"tag":"SPAN","id":"","class":"u-icon u-social-facebook 
+             u-social-icon u-text-palette-1-base u-icon-1","text":""},{"tag":"s
+             vg","id":"","class":{},"text":""},{"tag":"svg","id":"svg-6262","cl
+             ass":{},"text":""},{"tag":"A","id":"","class":"u-social-url","text
+             ":""},{"tag":"SPAN","id":"","class":"u-icon u-social-icon 
+             u-social-twitter u-text-palette-1-base u-icon-2","text":""},{"tag"
+             :"svg","id":"","class":{},"text":""},{"tag":"svg","id":"svg-d3b0",
+             "class":{},"text":""},{"tag":"A","id":"","class":"u-social-url","t
+             ext":""},{"tag":"SPAN","id":"","class":"u-icon u-social-icon 
+             u-social-instagram u-text-palette-1-base u-icon-3","text":""},{"ta
+             g":"svg","id":"","class":{},"text":""},{"tag":"svg","id":"svg-8121
+             ","class":{},"text":""},{"tag":"DIV","id":"","class":"u-black 
+             u-menu-overlay u-opacity u-opacity-70","text":""},{"tag":"FORM","i
+             d":"","class":"u-align-center-md u-align-center-sm 
+             u-align-center-xs u-search u-search-layout-icon u-search-left 
+             u-white u-search-1","text":""},{"tag":"DIV","id":"","class":"u-sea
+             rch-overlay","text":""},{"tag":"BUTTON","id":"","class":"u-search-
+             button","text":""},{"tag":"SPAN","id":"","class":"u-search-icon u-
+             search-icon-1","text":""},{"tag":"svg","id":"","class":{},"text":"
+             "},{"tag":"svg","id":"svg-6416","class":{},"text":""},{"tag":"INPU
+             T","id":"","class":"u-search-input","text":""}]
+Filename   : nicepage-snapshot.txt
+Path       : C:\Users\nadak\Desktop\React\holiday_assignment\react_assignment\b
+             reads_bakery\nicepage-snapshot.txt
+Pattern    : Baked fresh daily|fresh bread & baked goods|Our Bread|About 
+             Bakery|Testimonials|Hours & Location|Sign up for the 
+             newsletter|Book an appointment|Delivery To Your Door|Great 
+             Value|Institutions|No Order Too Large
+Context    : Microsoft.PowerShell.Commands.MatchInfoContext
+Matches    : {0}

@@ -1,0 +1,307 @@
+
+> react_assignment\breads_bakery\snapshot-5.txt:1:Result: 
+[{"tag":"HEADER","id":"sec-f27d","class":"u-clearfix 
+u-container-align-center-md u-header","text":"Bakery\nPagesAbout 
+us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur Bread\nContact\n\n          
+\n          \n            \n              \n                \n                
+Bakery\nPagesAbout us\nLanding\nBakery Team\nWorkshops Page\n\n\nOur 
+Bread\nContact\n\n                 Book an appointment\n                \n     
+    ","html":"<header class=\"u-clearfix u-container-align-center-md 
+u-header\" id=\"sec-f27d\" data-animation-name=\"\" 
+data-animation-duration=\"0\" data-animation-delay=\"0\" 
+data-animation-direction=\"\"><div class=\"u-clearfix u-sheet 
+u-valign-middle-md u-valign-middle-xxl u-sheet-1\">\n        <a href=\"#\" 
+class=\"u-image u-logo u-image-1\" data-image-width=\"991\" 
+data-image-height=\"180\">\n          <img class=\"u-logo-image 
+u-logo-image-1\" 
+src=\"https://assets.nicepagecdn.com/d2cc3eaa/3256687/images/logo-2.png\">\n   
+     </a>\n        <nav class=\"u-align-center-md u-align-center-sm 
+u-align-center-xs u-dropdown-icon u-menu u-menu-dropdown u-offcanvas 
+u-menu-1\" data-responsive-from=\"SM\">\n          <div 
+class=\"menu-collapse\" style=\"font-size: 0.875rem; letter-spacing: 0px; 
+text-transform: uppercase; font-weight: 600;\">\n            <a 
+class=\"u-button-style u-custom-active-border-color u-custom-active-color 
+u-custom-border u-custom-border-color u-custom-borders u-custom-color 
+u-custom-hover-border-color 
+u-custom-hover-co"},{"tag":"SECTION","id":"sec-186b","class":"u-align-center 
+u-clearfix u-container-align-center u-valign-middle u-section-1","text":"fresh 
+bread & baked goods\n                \n                \n                  
+Baked fresh daily\n                \n                \n                  ​254 
+W 27ST ST, NEW YORK, NY 10011\n                \n                \n            
+      ​(212) 123-4567\n                \n                 Monday - 
+Wed","html":"<section class=\"u-align-center u-clearfix 
+u-container-align-center u-valign-middle u-section-1\" id=\"sec-186b\">\n      
+<div class=\"data-layout-selected u-clearfix u-layout-wrap 
+u-layout-wrap-1\">\n        <div class=\"u-layout\">\n          <div 
+class=\"u-layout-row\">\n            <div class=\"u-align-left 
+u-container-align-left u-container-style u-layout-cell u-size-27-lg 
+u-size-27-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1 animated 
+customAnimationIn-played\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" style=\"will-change: transform, opacity; 
+animation-duration: 1500ms;\">\n              <div class=\"u-container-layout 
+u-valign-middle u-container-layout-1\">\n                <h6 
+class=\"u-align-left u-text u-text-1\"> fresh bread &amp; baked 
+goods&nbsp;<br>\n                </h6>\n                <h2 
+class=\"u-align-left u-text u-text-2\">\n                  <span 
+style=\"font-weight: 700;\"></span>Baked fresh daily\n                </h2>\n  
+              <h6 
+class=\"u-al"},{"tag":"SECTION","id":"carousel_edf6","class":"u-align-center 
+u-clearfix u-container-align-center u-section-2","text":"We bake fresh, 
+handmade bread, pastries and cakes every day\n        \n          \n           
+ \n              \n                \n                 Baked Fresh Daily\n      
+           Our bread is baked fresh daily, contains no preservatives and is 
+very high in quality. It is also especially nice and soft\n","html":"<section 
+class=\"u-align-center u-clearfix u-container-align-center u-section-2\" 
+id=\"carousel_edf6\">\n      <div class=\"u-clearfix u-sheet 
+u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1\">\n        
+<h2 class=\"u-align-center u-text u-text-1 backstage u-backstage-hidden 
+animated\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"0\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\"> We 
+bake fresh, handmade bread, pastries and cakes every day</h2>\n        <div 
+class=\"u-expanded-width u-list u-list-1\">\n          <div class=\"u-repeater 
+u-repeater-1\">\n            <div class=\"u-container-align-center 
+u-container-style u-list-item u-repeater-item u-list-item-1 backstage 
+u-backstage-hidden animated\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"500\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\">\n      
+        <div class=\"u-container-layout 
+u-similar-"},{"tag":"SECTION","id":"carousel_2c33","class":"u-clearfix 
+u-container-align-center u-section-3","text":"Our Bread\n       A 
+values-driven bakery\n      \n        \n          \n            \n             
+ \n            \n            \n          \n          \n            \n          
+    \n            \n            \n          \n          \n            \n       
+       \n            \n            \n          \n          \n     
+","html":"<section class=\"u-clearfix u-container-align-center u-section-3\" 
+id=\"carousel_2c33\">\n      <h2 class=\"u-align-center u-text u-text-1 
+backstage u-backstage-hidden animated\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\">Our 
+Bread</h2>\n      <p class=\"u-align-center u-text u-text-2 backstage 
+u-backstage-hidden animated\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"500\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\"> A 
+values-driven bakery</p>\n      <div class=\"u-expanded-width u-gallery 
+u-layout-grid u-lightbox u-show-text-on-hover u-gallery-1\" 
+data-pswp-uid=\"1\">\n        <div class=\"u-gallery-inner 
+u-gallery-inner-1\">\n          <div class=\"u-effect-fade u-gallery-item 
+u-shape-rectangle\" data-pswp-item-id=\"0\" data-gallery-uid=\"1\">\n          
+  <div class=\"u-back-slide\" data-image-width=\"800\" 
+data-image-height=\"604\">\n             
+"},{"tag":"SECTION","id":"carousel_10bb","class":"u-align-center u-clearfix 
+u-container-align-center u-white u-section-4","text":"About Bakery\n           
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+commodo consequat. \n                  \n                ","html":"<section 
+class=\"u-align-center u-clearfix u-container-align-center u-white 
+u-section-4\" id=\"carousel_10bb\">\n      <div class=\"u-clearfix u-sheet 
+u-valign-middle u-sheet-1\">\n        <div class=\"u-clearfix u-expanded-width 
+u-layout-wrap u-layout-wrap-1\">\n          <div class=\"u-layout\">\n         
+   <div class=\"u-layout-row\">\n              <div 
+class=\"u-container-align-left u-container-style u-layout-cell u-size-32-lg 
+u-size-32-xl u-size-60-md u-size-60-sm u-size-60-xs u-white u-layout-cell-1 
+backstage u-backstage-hidden animated\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+data-animation-delay=\"500\" style=\"will-change: transform, opacity; 
+animation-duration: 1500ms;\">\n                <div 
+class=\"u-container-layout u-valign-middle u-container-layout-1\">\n           
+       <h2 class=\"u-align-left u-text u-text-default u-text-1\">About 
+Bakery</h2>\n                  <p class=\"u-align-left u-text u-text-default 
+u-text-2\"> Lorem ipsum dolor sit amet, consectetur 
+adipis"},{"tag":"SECTION","id":"carousel_73af","class":"u-clearfix 
+u-container-align-center-xl u-palette-1-base u-valign-middle-lg 
+u-valign-middle-md u-valign-middle-sm u-valign-middle-xs 
+u-section-5","text":"We've had one goal: to bake the best tasting breads, 
+cakes and pastries.\n            \n             Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
+ullamco laboris nisi ut al","html":"<section class=\"u-clearfix 
+u-container-align-center-xl u-palette-1-base u-valign-middle-lg 
+u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-5\" 
+id=\"carousel_73af\" data-animation-name=\"\" data-animation-duration=\"0\" 
+data-animation-delay=\"0\" data-animation-direction=\"\">\n      <div 
+class=\"u-clearfix u-sheet u-valign-middle u-sheet-1\">\n        <img 
+class=\"u-image u-image-round u-radius-20 u-image-1 backstage 
+u-backstage-hidden animated\" 
+src=\"https://assets.nicepagecdn.com/d2cc3eaa/3266805/images/tttt.jpg\" 
+data-image-width=\"1200\" data-image-height=\"800\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+data-animation-delay=\"500\" style=\"will-change: transform, opacity; 
+animation-duration: 1500ms;\">\n        <div class=\"u-container-align-left 
+u-container-style u-group u-radius-20 u-shape-round u-white u-group-1 
+backstage u-backstage-hidden animated\" 
+data-animation-name=\"customAnimationIn\" data-animation-duration=\"1500\" 
+data-animation-delay=\"500\" 
+style=\"will"},{"tag":"SECTION","id":"carousel_f19f","class":"u-align-center 
+u-clearfix u-container-align-center u-valign-middle u-section-6","text":"Fresh 
+baked breads\n                 Baked fresh daily by bakers with passion\n      
+           Article evident arrived express highest men did boy. Mistress 
+sensible entirely am so. Quick can manor smart money hopes worth too. Comfort 
+produce husband boy her had hearing. Law others theirs passed but 
+","html":"<section class=\"u-align-center u-clearfix u-container-align-center 
+u-valign-middle u-section-6\" id=\"carousel_f19f\">\n      <div 
+class=\"u-clearfix u-layout-wrap u-layout-wrap-1\">\n        <div 
+class=\"u-layout\">\n          <div class=\"u-layout-row\">\n            <div 
+class=\"u-align-left u-container-align-center u-container-align-left 
+u-container-style u-image u-image-default u-layout-cell u-size-33-lg 
+u-size-33-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1 backstage 
+u-backstage-hidden animated\" data-image-width=\"1321\" 
+data-image-height=\"998\" data-animation-name=\"customAnimationIn\" 
+data-animation-duration=\"1500\" data-animation-delay=\"250\" 
+style=\"will-change: transform, opacity; animation-duration: 1500ms;\">\n      
+        <div class=\"u-container-layout u-container-layout-1\"></div>\n        
+    </div>\n            <div class=\"u-container-style u-layout-cell 
+u-size-27-lg u-size-27-xl u-size-60-md u-size-60-sm u-size-60-xs 
+u-layout-cell-2 backstage u-backstage-hidden animated\" data-animation-"},{"tag
+":"SECTION","id":"carousel_a713","class":"u-align-center u-clearfix 
+u-container-align-center u-palette-1-base u-section-7","text":"Brownies, 
+Pastries, etc\n        \n          \n            \n              \n            
+    \n                 croissant\n                Sample text. Click to select 
+the text box. Click again or double click to start editing the text.\n         
+       more\n              \n            \n            \n        
+","html":"<section class=\"u-align-center u-clearfix u-container-align-center 
+u-palette-1-base u-section-7\" id=\"carousel_a713\">\n      <div 
+class=\"u-clearfix u-sheet u-sheet-1\">\n        <h2 class=\"u-align-center 
+u-text u-text-1\"> Brownies, Pastries, etc</h2>\n        <div 
+class=\"u-expanded-width u-list u-list-1\">\n          <div class=\"u-repeater 
+u-repeater-1\">\n            <div class=\"u-align-left 
+u-container-align-center u-container-align-left u-container-style u-list-item 
+u-radius-20 u-repeater-item u-shape-round u-white u-list-item-1\">\n           
+   <div class=\"u-container-layout u-similar-container u-valign-top 
+u-container-layout-1\">\n                <div class=\"u-image u-image-circle 
+u-image-1\" alt=\"\" data-image-width=\"1277\" 
+data-image-height=\"995\"></div>\n                <h4 class=\"u-align-center 
+u-custom-font u-font-montserrat u-text u-text-default u-text-2\"> 
+croissant</h4>\n                <p class=\"u-align-center u-text 
+u-text-3\">Sample text. Click to select the text box. Click again or 
+double"},{"tag":"SECTION","id":"carousel_32ca","class":"u-align-center 
+u-clearfix u-container-align-center u-palette-1-base 
+u-section-8","text":"Testimonials\n        \n          \n            \n        
+      \n                \n                Sample text. Click to select the 
+text box. Click again or double click to start editing the text.\n             
+   stella larson\n              \n            \n            \n              \n 
+               \n     ","html":"<section class=\"u-align-center u-clearfix 
+u-container-align-center u-palette-1-base u-section-8\" 
+id=\"carousel_32ca\">\n      <div class=\"u-clearfix u-sheet u-valign-middle 
+u-sheet-1\">\n        <h2 class=\"u-align-center u-text u-text-default 
+u-text-1\">Testimonials</h2>\n        <div class=\"u-list u-list-1\">\n        
+  <div class=\"u-repeater u-repeater-1\">\n            <div 
+class=\"u-container-align-center u-container-style u-list-item u-radius-20 
+u-repeater-item u-shape-round u-white u-list-item-1\">\n              <div 
+class=\"u-container-layout u-similar-container u-valign-top 
+u-container-layout-1\">\n                <span class=\"u-align-center 
+u-file-icon u-icon u-text-palette-5-light-1 u-icon-1\"><img src=\"data:image/pn
+g;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAAXNSR0IArs4c6QAAEOxJRE
+FUeF7tXXuYG9V1/52R1uvXZ1hDsGniJBCSlpKQL8RQjG2N5NVozYI1MnaWUuokQFpaEkJCCzQhcbbhk
+QdNSVPaNC9o3JDPWQPe0YbFlmRrJRsXjAOERxLSJgQIsU0BP2Brr1ea0+/a2tS7K2kempFGq7n/3nPP
+6/7mzsy955xL8FtLe4Ba2nrfePgAaHEQ+ADwAdDiHmhx"},{"tag":"SECTION","id":"sec-104f"
+,"class":"u-clearfix u-section-9","text":"Breads\n              Sample text. 
+Click to select the text box. Click again or double click to start editing the 
+text.\n            \n          \n          \n            \n              \n    
+          Cookies\n              Sample text. Click to select the text box. 
+Click again or double click to start ed","html":"<section class=\"u-clearfix 
+u-section-9\" id=\"sec-104f\">\n      <div class=\"u-expanded-width 
+u-palette-1-base u-shape u-shape-rectangle u-shape-1\"></div>\n      <div 
+class=\"u-list u-list-1\">\n        <div class=\"u-repeater u-repeater-1\">\n  
+        <div class=\"u-container-style u-list-item u-repeater-item 
+u-shape-rectangle\">\n            <div class=\"u-container-layout 
+u-similar-container u-valign-top u-container-layout-1\">\n              <img 
+class=\"u-expanded-width u-image u-image-round u-top-left-radius-20 
+u-top-right-radius-20 u-image-1\" src=\"//images01.nicepagecdn.com/c461c07a441a
+5d220e8feb1a/8baae157ffbe56548790d776/yty.jpg\" data-image-width=\"800\" 
+data-image-height=\"604\">\n              <h3 class=\"u-text 
+u-text-1\">Breads</h3>\n              <p class=\"u-text u-text-default 
+u-text-2\">Sample text. Click to select the text box. Click again or double 
+click to start editing the text.</p>\n            </div>\n          </div>\n   
+       <div class=\"u-container-style u-list-item u-repeater-item 
+u-shap"},{"tag":"FOOTER","id":"sec-3f99","class":"u-align-center-sm 
+u-align-center-xs u-black u-clearfix u-container-align-center 
+u-footer","text":"Quick Links\n                  \n                  \n        
+            About Us\n                    \n                       Bakery 
+Menu\n                    \n                    \n                    Visit 
+Us\n                    \n                    Testimonials\n                   
+ \n                  \n","html":"<footer class=\"u-align-center-sm 
+u-align-center-xs u-black u-clearfix u-container-align-center u-footer\" 
+id=\"sec-3f99\"><div class=\"u-clearfix u-sheet u-valign-middle u-sheet-1\">\n 
+       <a href=\"#\" class=\"u-image u-logo u-image-1\" 
+data-image-width=\"991\" data-image-height=\"426\">\n          <img src=\"https
+://assets.nicepagecdn.com/d2cc3eaa/3256687/images/bakery-logo-white.png\" 
+class=\"u-logo-image u-logo-image-1\">\n        </a>\n        <div 
+class=\"data-layout-selected u-clearfix u-expanded-width u-layout-wrap 
+u-layout-wrap-1\">\n          <div class=\"u-gutter-0 u-layout\">\n            
+<div class=\"u-layout-row\">\n              <div 
+class=\"u-container-align-left u-container-style u-layout-cell 
+u-shape-rectangle u-size-15-lg u-size-15-xl u-size-30-md u-size-30-sm 
+u-size-30-xs u-layout-cell-1\">\n                <div 
+class=\"u-container-layout u-valign-top u-container-layout-1\">\n              
+    <h5 class=\"u-align-left u-text u-text-1\"> Quick Links</h5>\n             
+     <div class=\"u-align-left 
+u-bo"},{"tag":"SECTION","id":"","class":"u-backlink u-clearfix 
+u-grey-80","text":"This site was created with the \n        \n          
+Nicepage","html":"<section class=\"u-backlink u-clearfix u-grey-80\">\n      
+<p class=\"u-text\">\n        <span>This site was created with the </span>\n   
+     <a class=\"u-link\" href=\"https://nicepage.com/\" target=\"_blank\" 
+rel=\"nofollow\">\n          <span>Nicepage</span>\n        </a>\n      </p>\n 
+   </section>"},{"tag":"SECTION","id":"sec-07c9","class":"u-black u-clearfix 
+u-container-style u-dialog-block u-opacity u-opacity-70 u-payment-dialog 
+u-valign-middle u-dialog-section-12","text":"Buy Now\n          \n            
+\n            \n              \n                \n                  \n         
+           Product 1 Title\n                  \n                  \n           
+         Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit 
+nullam nunc justo sagittis suscipit ultri","html":"<section class=\"u-black 
+u-clearfix u-container-style u-dialog-block u-opacity u-opacity-70 
+u-payment-dialog u-valign-middle u-dialog-section-12\" id=\"sec-07c9\">\n      
+<div class=\"u-align-center u-container-style u-dialog u-radius-25 
+u-shape-round u-white u-dialog-1\">\n        <div class=\"u-container-layout 
+u-valign-top u-container-layout-1\">\n          <h5 class=\"u-align-left 
+u-text u-text-1\">Buy Now</h5>\n          <div class=\"u-expanded-width 
+u-products u-products-1\" data-site-sorting-prop=\"created\" 
+data-site-sorting-order=\"desc\" data-items-per-page=\"1\">\n            <div 
+class=\"u-list-control\"></div>\n            <div class=\"u-repeater 
+u-repeater-1\">\n              <!--product_item--><div 
+class=\"u-container-style u-products-item u-repeater-item\">\n                
+<div class=\"u-container-layout u-similar-container u-container-layout-2\">\n  
+                <h5 class=\"u-align-left u-product-control u-text 
+u-text-2\">\n                    <a class=\"u-product-title-link\" 
+href=\"#\">Product 1 
+Title</a"},{"tag":"STYLE","id":"","class":"","text":".u-dialog-section-12 
+.u-dialog-1 {\n  width: 570px;\n  min-height: 578px;\n  height: auto;\n  
+box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);\n  margin: 60px 
+auto;\n}\n\n.u-dialog-section-12 .u-container-layout-1 {\n  padding: 34px 
+35px;\n}\n\n.u-dialog-section-12 .u-text-1 {\n  font-weight: 700;\n  margin: 0 
+165px ","html":"<style>.u-dialog-section-12 .u-dialog-1 {\n  width: 570px;\n  
+min-height: 578px;\n  height: auto;\n  box-shadow: 0px 0px 8px 0px 
+rgba(0,0,0,0.2);\n  margin: 60px auto;\n}\n\n.u-dialog-section-12 
+.u-container-layout-1 {\n  padding: 34px 35px;\n}\n\n.u-dialog-section-12 
+.u-text-1 {\n  font-weight: 700;\n  margin: 0 165px 0 
+0;\n}\n\n.u-dialog-section-12 .u-products-1 {\n  margin-top: 30px;\n  
+margin-bottom: 0;\n}\n\n.u-dialog-section-12 .u-repeater-1 {\n  
+grid-template-columns: 100%;\n  min-height: 206px;\n  grid-gap: 
+10px;\n}\n\n.u-dialog-section-12 .u-container-layout-2 {\n  padding: 0 0 
+30px;\n}\n\n.u-dialog-section-12 .u-text-2 {\n  background-image: none;\n  
+margin: 0;\n}\n\n.u-dialog-section-12 .u-text-3 {\n  font-size: 0.875rem;\n  
+margin: 20px 0 0;\n}\n\n.u-dialog-section-12 .u-product-quantity-1 {\n  width: 
+125px;\n  margin: 30px auto 0 0;\n}\n\n.u-dialog-section-12 .u-product-price-1 
+{\n  margin: -34px 0 0 auto;\n}\n\n.u-dialog-section-12 .u-payment-services-1 
+{\n  min-height: 250px;\n  min-width: 50px;\n  margin: 0;\n}\n\n.u-dialog-s"},{
+"tag":"STYLE","id":"","class":"","text":".u-disable-duration * 
+{transition-duration: 0s !important;}","html":"<style>.u-disable-duration * 
+{transition-duration: 0s !important;}</style>"},{"tag":"SCRIPT","id":"","class"
+:"","text":"","html":"<script src=\"https://www.google.com/recaptcha/api.js?ren
+der=6LetPRgiAAAAAGX121nVdkYGTN-RfCXh4wAlbDFh\" async=\"\"></script>"},{"tag":"D
+IV","id":"","class":"","text":"","html":"<div><div class=\"grecaptcha-badge\" 
+data-style=\"bottomright\" style=\"width: 256px; height: 60px; display: block; 
+transition: right 0.3s; position: fixed; bottom: 14px; right: -186px; 
+box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;\"><div 
+class=\"grecaptcha-logo\"><iframe title=\"reCAPTCHA\" width=\"256\" 
+height=\"60\" role=\"presentation\" name=\"a-d0n7csmw0bv1\" frameborder=\"0\" 
+scrolling=\"no\" sandbox=\"allow-forms allow-popups allow-same-origin 
+allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox 
+allow-storage-access-by-user-activation\" src=\"https://www.google.com/recaptch
+a/api2/anchor?ar=1&amp;k=6LetPRgiAAAAAGX121nVdkYGTN-RfCXh4wAlbDFh&amp;co=aHR0cH
+M6Ly93ZWJzaXRlMzI1NjY4Ny5uaWNlcGFnZS5pbzo0NDM.&amp;hl=en&amp;v=ne1iDVwClkE7nKD3
+uA9Vqsvl&amp;size=invisible&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=ca5
+v9d9r0poy\"></iframe></div><div class=\"grecaptcha-error\"></div><textarea 
+id=\"g-recaptcha-response-100000\" name=\"g-recaptcha-response\" 
+class=\"g-recaptcha-r"}]
